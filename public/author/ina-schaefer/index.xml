@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ina Schaefer | José Proença</title>
+    <link>/author/ina-schaefer/</link>
+      <atom:link href="/author/ina-schaefer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ina Schaefer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>Ina Schaefer</title>
+      <link>/author/ina-schaefer/</link>
+    </image>
+    
+    <item>
+      <title>Variability Modelling in the ABS Language</title>
+      <link>/publication/clarke-variability-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-variability-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

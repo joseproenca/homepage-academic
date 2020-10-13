@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service | José Proença</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>Service</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>F-IDE 2021 @ NFM</title>
+      <link>/talk/f-ide21/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/f-ide21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2021</title>
+      <link>/talk/fsen21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACAS 2021 @ ETAPS</title>
+      <link>/talk/tacas21/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/tacas21/</guid>
+      <description>&lt;h2 id=&#34;27th-international-conference-on-tools-and-algorithms-for-the-construction-and-analysis-of-systems&#34;&gt;27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems&lt;/h2&gt;
+&lt;p&gt;TACAS is a forum for researchers, developers and users interested in rigorously based tools and algorithms for the construction and analysis of systems. The conference aims to bridge the gaps between different communities with this common interest and to support them in their quest to improve the utility, reliability, flexibility and efficiency of tools and algorithms for building systems.&lt;/p&gt;
+&lt;p&gt;Theoretical papers with clear relevance for tool construction and analysis as well as tool descriptions and case studies with a conceptual message are all encouraged. The topics covered by the conference include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;specification and verification techniques;&lt;/li&gt;
+&lt;li&gt;software and hardware verification;&lt;/li&gt;
+&lt;li&gt;analytical techniques for real-time, hybrid, or stochastic systems;&lt;/li&gt;
+&lt;li&gt;analytical techniques for safety, security, or dependability;&lt;/li&gt;
+&lt;li&gt;SAT and SMT solving;&lt;/li&gt;
+&lt;li&gt;theorem proving;&lt;/li&gt;
+&lt;li&gt;model checking;&lt;/li&gt;
+&lt;li&gt;static and dynamic program analysis;&lt;/li&gt;
+&lt;li&gt;testing;&lt;/li&gt;
+&lt;li&gt;abstraction techniques for modeling and verification;&lt;/li&gt;
+&lt;li&gt;compositional and refinement-based methodologies;&lt;/li&gt;
+&lt;li&gt;system construction and transformation techniques;&lt;/li&gt;
+&lt;li&gt;machine-learning techniques for synthesis and verification;&lt;/li&gt;
+&lt;li&gt;tool environments and tool architectures;&lt;/li&gt;
+&lt;li&gt;applications and case studies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2020 @ SEFM</title>
+      <link>/talk/foclasa20/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2020</title>
+      <link>/talk/coordination20/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2019</title>
+      <link>/talk/facs19/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/facs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F-IDE 2019  @ FM</title>
+      <link>/talk/f-ide19/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/f-ide19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2019 @ SEFM</title>
+      <link>/talk/foclasa19/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2019</title>
+      <link>/talk/coordination19/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2019</title>
+      <link>/talk/fsen19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REBLS 2018 @ SPLASH</title>
+      <link>/talk/rebls18/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/rebls18/</guid>
+      <description>&lt;h1 id=&#34;5th-workshop-on-reactive-and-event-based-languages--systems&#34;&gt;5th Workshop on Reactive and Event-based Languages &amp;amp; Systems&lt;/h1&gt;
+&lt;p&gt;Reactive programming and event-based programming are two closely related programming styles that are becoming ever more important with the advent of advanced HPC technology and the ever increasing requirement for our applications to run on the web or on collaborating mobile devices. A number of publications on middleware and language design — so-called reactive and event-based languages and systems (REBLS) — have already seen the light, but the field still raises several questions. For example, the interaction with mainstream language concepts is poorly understood, implementation technology is in its infancy and modularity mechanisms are almost totally lacking. Moreover, large applications are still to be developed and patterns and tools for developing reactive applications is an area that is vastly unexplored.&lt;/p&gt;
+&lt;p&gt;This workshop will gather researchers in reactive and event-based languages and systems. The goal of the workshop is to exchange new technical research results and to define better the field by coming up with taxonomies and overviews of the existing work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FACS 2018</title>
+      <link>/talk/facs18/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/facs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2018 @ STAF/SEFM</title>
+      <link>/talk/foclasa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2018</title>
+      <link>/talk/coordination18/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2017</title>
+      <link>/talk/facs17/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/facs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2017  @ SEFM</title>
+      <link>/talk/foclasa17/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2017</title>
+      <link>/talk/coordination17/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2017</title>
+      <link>/talk/fsen17/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2016</title>
+      <link>/talk/coordination16/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2015 @ SEFM</title>
+      <link>/talk/foclasa15/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2015</title>
+      <link>/talk/fsen15/</link>
+      <pubDate>Wed, 22 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2014 @ SEFM</title>
+      <link>/talk/foclasa14/</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

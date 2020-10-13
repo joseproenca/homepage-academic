@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillermina Cledou | José Proença</title>
+    <link>/author/guillermina-cledou/</link>
+      <atom:link href="/author/guillermina-cledou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guillermina Cledou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>Guillermina Cledou</title>
+      <link>/author/guillermina-cledou/</link>
+    </image>
+    
+    <item>
+      <title>ARx: Reactive Programming for Synchronous Connectors</title>
+      <link>/publication/proenca-arx-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-arx-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination of Tasks on a Real-Time OS</title>
+      <link>/publication/cledou-coordination-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-coordination-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Refinement Relation for Families of Timed Automata</title>
+      <link>/publication/cledou-refinement-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-refinement-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composing Families of Timed Automata</title>
+      <link>/publication/cledou-composing-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-composing-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

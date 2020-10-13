@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elvira Albert | José Proença</title>
+    <link>/author/elvira-albert/</link>
+      <atom:link href="/author/elvira-albert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elvira Albert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>Elvira Albert</title>
+      <link>/author/elvira-albert/</link>
+    </image>
+    
+    <item>
+      <title>The ABS tool suite: modelling, executing and analysing distributed adaptable object-oriented systems</title>
+      <link>/publication/wong-abs-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-abs-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

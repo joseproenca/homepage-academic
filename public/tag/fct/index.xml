@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FCT | José Proença</title>
+    <link>/tag/fct/</link>
+      <atom:link href="/tag/fct/index.xml" rel="self" type="application/rss+xml" />
+    <description>FCT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>FCT</title>
+      <link>/tag/fct/</link>
+    </image>
+    
+    <item>
+      <title>DaVinci (07/2018-now) - Coordinator</title>
+      <link>/project/davinci/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/davinci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reassure (07/2018-now)</title>
+      <link>/project/reassure/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/reassure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

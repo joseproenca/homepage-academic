@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | José Proença</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Implementing Hybrid Semantics: From Functional to Imperative</title>
+      <link>/publication/goncharov-implementing-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/goncharov-implementing-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching how to program using automated assessment and functional glossy games (experience report)</title>
+      <link>/publication/almeida-teaching-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/almeida-teaching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typed connector families and their semantics</title>
+      <link>/publication/proenca-typed-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-typed-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A procedure for splitting data-aware processes and its application to coordination</title>
+      <link>/publication/jongmans-procedure-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/jongmans-procedure-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Nets: behavioural modelling of software product lines</title>
+      <link>/publication/muschevici-feature-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-feature-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hitch Hiker 2.0: a binding model with flexible data aggregation for the Internet-of-Things</title>
+      <link>/publication/ramachandran-hitch-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ramachandran-hitch-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ABS tool suite: modelling, executing and analysing distributed adaptable object-oriented systems</title>
+      <link>/publication/wong-abs-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-abs-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-based coordination via constraint satisfaction</title>
+      <link>/publication/clarke-channel-based-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-channel-based-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deconstructing Reo</title>
+      <link>/publication/clarke-deconstructing-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-deconstructing-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination Models Orc and Reo Compared</title>
+      <link>/publication/proenca-coordination-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-coordination-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration of Reo Connectors Triggered by Dataflow</title>
+      <link>/publication/koehler-reconfiguration-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/koehler-reconfiguration-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

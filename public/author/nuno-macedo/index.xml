@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuno Macedo | José Proença</title>
+    <link>/author/nuno-macedo/</link>
+      <atom:link href="/author/nuno-macedo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nuno Macedo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>Nuno Macedo</title>
+      <link>/author/nuno-macedo/</link>
+    </image>
+    
+    <item>
+      <title>Teaching how to program using automated assessment and functional glossy games (experience report)</title>
+      <link>/publication/almeida-teaching-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/almeida-teaching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification of ROS-Based Robotic Applications Using Timed-Automata</title>
+      <link>/publication/halder-formal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/halder-formal-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

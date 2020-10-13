@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radu Muschevici | José Proença</title>
+    <link>/author/radu-muschevici/</link>
+      <atom:link href="/author/radu-muschevici/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radu Muschevici</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>Radu Muschevici</title>
+      <link>/author/radu-muschevici/</link>
+    </image>
+    
+    <item>
+      <title>Feature Nets: behavioural modelling of software product lines</title>
+      <link>/publication/muschevici-feature-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-feature-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executable modelling of dynamic software product lines in the ABS language</title>
+      <link>/publication/muschevici-executable-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-executable-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ABS tool suite: modelling, executing and analysing distributed adaptable object-oriented systems</title>
+      <link>/publication/wong-abs-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-abs-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Modelling of Software Product Lines with Feature Nets</title>
+      <link>/publication/muschevici-modular-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-modular-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Petri Nets</title>
+      <link>/publication/muschevici-feature-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-feature-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability Modelling in the ABS Language</title>
+      <link>/publication/clarke-variability-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-variability-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

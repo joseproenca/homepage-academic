@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | José Proença</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>ARx: Reactive Programming for Synchronous Connectors</title>
+      <link>/publication/proenca-arx-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-arx-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Hybrid Semantics: From Functional to Imperative</title>
+      <link>/publication/goncharov-implementing-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/goncharov-implementing-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination of Tasks on a Real-Time OS</title>
+      <link>/publication/cledou-coordination-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-coordination-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of F-IDE@FM 2019</title>
+      <link>/publication/monahan-proceedings-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/monahan-proceedings-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Hierarchical Connectors</title>
+      <link>/publication/proenca-taming-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-taming-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReoLive: Analysing Connectors in Your Browser</title>
+      <link>/publication/cruz-reolive-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cruz-reolive-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching how to program using automated assessment and functional glossy games (experience report)</title>
+      <link>/publication/almeida-teaching-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/almeida-teaching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Refinement Relation for Families of Timed Automata</title>
+      <link>/publication/cledou-refinement-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-refinement-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composing Families of Timed Automata</title>
+      <link>/publication/cledou-composing-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-composing-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification of ROS-Based Robotic Applications Using Timed-Automata</title>
+      <link>/publication/halder-formal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/halder-formal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of FACS 2017</title>
+      <link>/publication/proenca-formal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-formal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality-Aware Reactive Programming for the Internet of Things</title>
+      <link>/publication/proenca-quality-aware-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-quality-aware-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typed connector families and their semantics</title>
+      <link>/publication/proenca-typed-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-typed-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A procedure for splitting data-aware processes and its application to coordination</title>
+      <link>/publication/jongmans-procedure-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/jongmans-procedure-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Nets: behavioural modelling of software product lines</title>
+      <link>/publication/muschevici-feature-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-feature-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hitch Hiker 2.0: a binding model with flexible data aggregation for the Internet-of-Things</title>
+      <link>/publication/ramachandran-hitch-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ramachandran-hitch-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of COORDINATION 2016</title>
+      <link>/publication/lluch-lafuente-coordination-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lluch-lafuente-coordination-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hitch Hiker: A Remote Binding Model with Priority Based Data Aggregation for Wireless Sensor Networks</title>
+      <link>/publication/ramachandran-hitch-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ramachandran-hitch-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of FOCLASA@CONCUR 2014</title>
+      <link>/publication/camara-proceedings-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/camara-proceedings-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of FOCLASA@CONCUR 2015</title>
+      <link>/publication/proenca-proceedings-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-proceedings-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refraction: Low-Cost Management of Reflective Meta-Data in Pervasive Component-Based Applications</title>
+      <link>/publication/daniels-refraction-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/daniels-refraction-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomography: lowering management overhead for distributed component-based applications</title>
+      <link>/publication/daniels-tomography-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/daniels-tomography-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typed Connector Families</title>
+      <link>/publication/proenca-typed-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-typed-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Abstraction in Coordination Constraints</title>
+      <link>/publication/proenca-data-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-data-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executable modelling of dynamic software product lines in the ABS language</title>
+      <link>/publication/muschevici-executable-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-executable-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Interaction Constraints</title>
+      <link>/publication/proenca-interactive-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-interactive-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Procedure for Splitting Processes and its Application to Coordination</title>
+      <link>/publication/jongmans-procedure-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/jongmans-procedure-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dreams: a framework for distributed synchronous coordination</title>
+      <link>/publication/proenca-dreams-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-dreams-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of policies in wireless sensor network applications</title>
+      <link>/publication/patrignani-formal-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/patrignani-formal-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial Connector Colouring</title>
+      <link>/publication/clarke-partial-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-partial-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ABS tool suite: modelling, executing and analysing distributed adaptable object-oriented systems</title>
+      <link>/publication/wong-abs-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-abs-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-based coordination via constraint satisfaction</title>
+      <link>/publication/clarke-channel-based-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-channel-based-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupled execution of synchronous coordination models via behavioural automata</title>
+      <link>/publication/proenca-decoupled-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-decoupled-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Modelling of Software Product Lines with Feature Nets</title>
+      <link>/publication/muschevici-modular-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-modular-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Petri Nets</title>
+      <link>/publication/muschevici-feature-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-feature-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Theory of Views for Feature Models</title>
+      <link>/publication/clarke-towards-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-towards-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability Modelling in the ABS Language</title>
+      <link>/publication/clarke-variability-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-variability-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination via Interaction Constraints I: Local Logic</title>
+      <link>/publication/clarke-coordination-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-coordination-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deconstructing Reo</title>
+      <link>/publication/clarke-deconstructing-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-deconstructing-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination Models Orc and Reo Compared</title>
+      <link>/publication/proenca-coordination-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-coordination-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration of Reo Connectors Triggered by Dataflow</title>
+      <link>/publication/koehler-reconfiguration-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/koehler-reconfiguration-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Point-Free Program Transformation</title>
+      <link>/publication/cunha-framework-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/cunha-framework-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

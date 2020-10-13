@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Proença</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>José Proença</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© José Proença 2020</copyright><lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huebb54bd3bd4d3907b2baddcc4842df83_370259_512x512_fill_lanczos_center_2.png</url>
+      <title>José Proença</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>F-IDE 2021 @ NFM</title>
+      <link>/talk/f-ide21/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/f-ide21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2021</title>
+      <link>/talk/fsen21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACAS 2021 @ ETAPS</title>
+      <link>/talk/tacas21/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/tacas21/</guid>
+      <description>&lt;h2 id=&#34;27th-international-conference-on-tools-and-algorithms-for-the-construction-and-analysis-of-systems&#34;&gt;27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems&lt;/h2&gt;
+&lt;p&gt;TACAS is a forum for researchers, developers and users interested in rigorously based tools and algorithms for the construction and analysis of systems. The conference aims to bridge the gaps between different communities with this common interest and to support them in their quest to improve the utility, reliability, flexibility and efficiency of tools and algorithms for building systems.&lt;/p&gt;
+&lt;p&gt;Theoretical papers with clear relevance for tool construction and analysis as well as tool descriptions and case studies with a conceptual message are all encouraged. The topics covered by the conference include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;specification and verification techniques;&lt;/li&gt;
+&lt;li&gt;software and hardware verification;&lt;/li&gt;
+&lt;li&gt;analytical techniques for real-time, hybrid, or stochastic systems;&lt;/li&gt;
+&lt;li&gt;analytical techniques for safety, security, or dependability;&lt;/li&gt;
+&lt;li&gt;SAT and SMT solving;&lt;/li&gt;
+&lt;li&gt;theorem proving;&lt;/li&gt;
+&lt;li&gt;model checking;&lt;/li&gt;
+&lt;li&gt;static and dynamic program analysis;&lt;/li&gt;
+&lt;li&gt;testing;&lt;/li&gt;
+&lt;li&gt;abstraction techniques for modeling and verification;&lt;/li&gt;
+&lt;li&gt;compositional and refinement-based methodologies;&lt;/li&gt;
+&lt;li&gt;system construction and transformation techniques;&lt;/li&gt;
+&lt;li&gt;machine-learning techniques for synthesis and verification;&lt;/li&gt;
+&lt;li&gt;tool environments and tool architectures;&lt;/li&gt;
+&lt;li&gt;applications and case studies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2020 @ SEFM</title>
+      <link>/talk/foclasa20/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2020</title>
+      <link>/talk/coordination20/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DaVinci (07/2018-now) - Coordinator</title>
+      <link>/project/davinci/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/davinci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reassure (07/2018-now)</title>
+      <link>/project/reassure/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/reassure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VALU3S (2020-now)</title>
+      <link>/project/valu3s/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/valu3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARx: Reactive Programming for Synchronous Connectors</title>
+      <link>/publication/proenca-arx-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-arx-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Hybrid Semantics: From Functional to Imperative</title>
+      <link>/publication/goncharov-implementing-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/goncharov-implementing-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2019</title>
+      <link>/talk/facs19/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/facs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F-IDE 2019  @ FM</title>
+      <link>/talk/f-ide19/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/f-ide19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2019 @ SEFM</title>
+      <link>/talk/foclasa19/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2019</title>
+      <link>/talk/coordination19/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2019</title>
+      <link>/talk/fsen19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination of Tasks on a Real-Time OS</title>
+      <link>/publication/cledou-coordination-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-coordination-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of F-IDE@FM 2019</title>
+      <link>/publication/monahan-proceedings-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/monahan-proceedings-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Hierarchical Connectors</title>
+      <link>/publication/proenca-taming-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-taming-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REBLS 2018 @ SPLASH</title>
+      <link>/talk/rebls18/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/rebls18/</guid>
+      <description>&lt;h1 id=&#34;5th-workshop-on-reactive-and-event-based-languages--systems&#34;&gt;5th Workshop on Reactive and Event-based Languages &amp;amp; Systems&lt;/h1&gt;
+&lt;p&gt;Reactive programming and event-based programming are two closely related programming styles that are becoming ever more important with the advent of advanced HPC technology and the ever increasing requirement for our applications to run on the web or on collaborating mobile devices. A number of publications on middleware and language design — so-called reactive and event-based languages and systems (REBLS) — have already seen the light, but the field still raises several questions. For example, the interaction with mainstream language concepts is poorly understood, implementation technology is in its infancy and modularity mechanisms are almost totally lacking. Moreover, large applications are still to be developed and patterns and tools for developing reactive applications is an area that is vastly unexplored.&lt;/p&gt;
+&lt;p&gt;This workshop will gather researchers in reactive and event-based languages and systems. The goal of the workshop is to exchange new technical research results and to define better the field by coming up with taxonomies and overviews of the existing work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FACS 2018</title>
+      <link>/talk/facs18/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/facs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2018 @ STAF/SEFM</title>
+      <link>/talk/foclasa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2018</title>
+      <link>/talk/coordination18/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightkone (01/2017-12/2019)</title>
+      <link>/project/lightkone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/lightkone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReoLive: Analysing Connectors in Your Browser</title>
+      <link>/publication/cruz-reolive-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cruz-reolive-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching how to program using automated assessment and functional glossy games (experience report)</title>
+      <link>/publication/almeida-teaching-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/almeida-teaching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2017</title>
+      <link>/talk/facs17/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/facs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2017  @ SEFM</title>
+      <link>/talk/foclasa17/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2017</title>
+      <link>/talk/coordination17/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2017</title>
+      <link>/talk/fsen17/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Refinement Relation for Families of Timed Automata</title>
+      <link>/publication/cledou-refinement-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-refinement-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composing Families of Timed Automata</title>
+      <link>/publication/cledou-composing-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cledou-composing-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification of ROS-Based Robotic Applications Using Timed-Automata</title>
+      <link>/publication/halder-formal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/halder-formal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of FACS 2017</title>
+      <link>/publication/proenca-formal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-formal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality-Aware Reactive Programming for the Internet of Things</title>
+      <link>/publication/proenca-quality-aware-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-quality-aware-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typed connector families and their semantics</title>
+      <link>/publication/proenca-typed-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-typed-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2016</title>
+      <link>/talk/coordination16/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/coordination16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A procedure for splitting data-aware processes and its application to coordination</title>
+      <link>/publication/jongmans-procedure-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/jongmans-procedure-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Nets: behavioural modelling of software product lines</title>
+      <link>/publication/muschevici-feature-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-feature-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hitch Hiker 2.0: a binding model with flexible data aggregation for the Internet-of-Things</title>
+      <link>/publication/ramachandran-hitch-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ramachandran-hitch-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of COORDINATION 2016</title>
+      <link>/publication/lluch-lafuente-coordination-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lluch-lafuente-coordination-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2015 @ SEFM</title>
+      <link>/talk/foclasa15/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2015</title>
+      <link>/talk/fsen15/</link>
+      <pubDate>Wed, 22 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/fsen15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hitch Hiker: A Remote Binding Model with Priority Based Data Aggregation for Wireless Sensor Networks</title>
+      <link>/publication/ramachandran-hitch-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ramachandran-hitch-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of FOCLASA@CONCUR 2014</title>
+      <link>/publication/camara-proceedings-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/camara-proceedings-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of FOCLASA@CONCUR 2015</title>
+      <link>/publication/proenca-proceedings-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-proceedings-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refraction: Low-Cost Management of Reflective Meta-Data in Pervasive Component-Based Applications</title>
+      <link>/publication/daniels-refraction-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/daniels-refraction-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomography: lowering management overhead for distributed component-based applications</title>
+      <link>/publication/daniels-tomography-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/daniels-tomography-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typed Connector Families</title>
+      <link>/publication/proenca-typed-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-typed-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2014 @ SEFM</title>
+      <link>/talk/foclasa14/</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/foclasa14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Abstraction in Coordination Constraints</title>
+      <link>/publication/proenca-data-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-data-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executable modelling of dynamic software product lines in the ABS language</title>
+      <link>/publication/muschevici-executable-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-executable-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Interaction Constraints</title>
+      <link>/publication/proenca-interactive-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-interactive-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Procedure for Splitting Processes and its Application to Coordination</title>
+      <link>/publication/jongmans-procedure-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/jongmans-procedure-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dreams: a framework for distributed synchronous coordination</title>
+      <link>/publication/proenca-dreams-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-dreams-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of policies in wireless sensor network applications</title>
+      <link>/publication/patrignani-formal-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/patrignani-formal-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial Connector Colouring</title>
+      <link>/publication/clarke-partial-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-partial-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ABS tool suite: modelling, executing and analysing distributed adaptable object-oriented systems</title>
+      <link>/publication/wong-abs-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-abs-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-based coordination via constraint satisfaction</title>
+      <link>/publication/clarke-channel-based-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-channel-based-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupled execution of synchronous coordination models via behavioural automata</title>
+      <link>/publication/proenca-decoupled-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-decoupled-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Modelling of Software Product Lines with Feature Nets</title>
+      <link>/publication/muschevici-modular-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-modular-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Petri Nets</title>
+      <link>/publication/muschevici-feature-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/muschevici-feature-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Theory of Views for Feature Models</title>
+      <link>/publication/clarke-towards-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-towards-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability Modelling in the ABS Language</title>
+      <link>/publication/clarke-variability-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-variability-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination via Interaction Constraints I: Local Logic</title>
+      <link>/publication/clarke-coordination-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-coordination-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deconstructing Reo</title>
+      <link>/publication/clarke-deconstructing-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/clarke-deconstructing-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination Models Orc and Reo Compared</title>
+      <link>/publication/proenca-coordination-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/proenca-coordination-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration of Reo Connectors Triggered by Dataflow</title>
+      <link>/publication/koehler-reconfiguration-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/koehler-reconfiguration-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Point-Free Program Transformation</title>
+      <link>/publication/cunha-framework-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/cunha-framework-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
