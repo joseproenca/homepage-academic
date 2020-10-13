@@ -15,23 +15,24 @@ role: Senior Researcher
 # Organizations/Affiliations
 organizations:
 - name: CISTER Research Centre
-  url: ""
+  url: "https://cister-labs.pt"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, ...
+bio: José Proença is a senior researcher at CISTER, ISEP, Portugal, working on formal models for component-based and critical systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software engineering
+- Concurrency
+- Coordination
+- Formal methods
 
 education:
   courses:
-  - course: PhD in Concurrent & Distributed Computation
-    institution: Leiden University
+  - course: PhD in Concurrent & Distributed Computing
+    institution: Leiden University, the Netherlands
     year: 2011
   - course: BSc+MSc in Mathematics & Computer Science
-    institution: Massachusetts Institute of Technology
+    institution: University of Minho, Portugal
     year: 2005
 
 # Social/Academic Networking
@@ -41,16 +42,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:pro@isep.ipp.pt".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/joseproenca
+  link: https://twitter.com/simpple
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=d_EFDzgAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0971-8919
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/40/5853.html
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/josepproenca/
+- icon: ciencia-vitae
+  icon_pack: ai
+  link: https://www.cienciavitae.pt/portal/2412-FE81-2767
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/joseproenca
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

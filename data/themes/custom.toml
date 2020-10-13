@@ -1,0 +1,40 @@
+# Theme metadata
+name = "custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary - icons and links in page
+primary = "#3f51b5"
+primary_light = "#3f51b5"
+primary_dark = "#f18141"
+
+# Menu - top bar
+menu_primary = "#3f51b5" # colour of the Bar
+menu_text = "#fff"       # colour of the links
+menu_text_active = "#f18141" # colour of the active link
+menu_title = "#fff"      # colour of the name/title
+
+# Home sections
+home_section_odd = "white"
+home_section_even = "#fff5f0"
+
+
+### CISTER:
+# blue: 009dc8
+# orange: f18141
+
+
+### Ocean:
+# # Primary
+# primary = "#3f51b5"
+# 
+# # Menu
+# menu_primary = "#3f51b5" # 500
+# menu_text = "#fff"
+# menu_text_active = "#8c9eff" # A100
+# menu_title = "#fff"
+# 
+# # Home sections
+# home_section_odd = "rgb(255, 255, 255)"
+# home_section_even = "rgb(247, 247, 247)"

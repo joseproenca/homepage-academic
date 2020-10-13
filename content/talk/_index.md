@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Talks
+title: Service
+subtitle: Organization of events
 
 # View.
 #   1 = List
