@@ -21,10 +21,13 @@ organizations:
 bio: José Proença is a senior researcher at CISTER, ISEP, Portugal, working on formal models for component-based and critical systems.
 
 interests:
-- Software engineering
+- Formal methods
 - Concurrency
 - Coordination
-- Formal methods
+- Software engineering
+- Software product lines
+- Real-time Embedded systems
+- Programming in Scala
 
 education:
   courses:
@@ -83,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoc at CISTER, ISEP, Portugal, working on formal models for component-based systems. Until January 2019 I worked in HASLab, University of Minho, working with Luís Barbosa, and was affiliated with Distrinet, KU Leuven, until January 2016, working mainly with Danny Hughes and Dave Clarke. My work has been mainly on coordination of distributed components, often associated to the Reo coordination language, and on formal approaches to software product line engineering. More recently I have been working on component models for embedded devices in the context of the LooCI middleware and micro PnP (now part of VersaSense), and in the context of the VirtuosoNext RTOS.
+I am currently a postdoc at [CISTER](https://cister-labs.pt), [ISEP](https://isep.ipp.pt), Portugal, working on formal models for component-based systems. Until January 2019 I worked in [HASLab](https://haslab.pt), [INESC TEC](https://inesctec.pt) & [University of Minho](http://di.uminho.pt), working with [Luís Barbosa](http://di.uminho.pt/~lsb), and was affiliated with Distrinet, KU Leuven, until January 2016, working mainly with Danny Hughes and Dave Clarke. My work has been mainly on coordination of distributed components, often associated to the Reo coordination language, and on formal approaches to software product line engineering. More recently I have been working on component models for embedded devices in the context of the LooCI middleware and micro PnP (now part of VersaSense), and in the context of the VirtuosoNext RTOS.
 
 Before I graduated in University of Minho, Portugal, for a 5 year degree in Mathematics and Computer Science. I studied abroad for 6 months as an Erasmus student in Bristol University, UK. I defended my PhD in Leiden University in May 2011, for my work carried in CWI, Amsterdam, in the group for Foundations of Software Engineering.

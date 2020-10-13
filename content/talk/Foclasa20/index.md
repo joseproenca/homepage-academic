@@ -1,5 +1,5 @@
 ---
-title: FOCLASA 2020
+title: FOCLASA 2020 @ SEFM
 subtitle: Affiliated to SEFM
 summary: __PC member__ - International Workshop on Coordination and Self-adaptativeness of Software Applications
 # authors:
@@ -8,7 +8,7 @@ tags: []
 categories: []
 date: "2020-09-15"
 # lastMod: "2020-09-05T00:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image

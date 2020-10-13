@@ -58,6 +58,13 @@ date_format = "Jan 2006"
   location = "Leuven, Belgium"
   date_start = "2010-02-01"
   date_end = "2015-10-01"
-  description = """..."""
+  description = """<p></p>
+
+* _P&O_ - Practical project with constrained devices (13/14, 14/15)
+* _SWOP_ - Software design in object-oriented languages (11/12, 12/13, 13/14)
+* _CPL_ - Comparative Programming Languages (12/13)
+* _BS_ - Operating Systems (12/13)
+* _OGO_ - Introduction to the object-oriented paradigm (11/12)
+"""
 
 +++

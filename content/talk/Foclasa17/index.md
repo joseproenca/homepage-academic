@@ -1,5 +1,5 @@
 ---
-title: FOCLASA 2017
+title: FOCLASA 2017  @ SEFM
 subtitle: Affiliated to SEFM
 summary: __PC member__ - International Workshop on Coordination and Self-adaptativeness of Software Applications
 # authors:

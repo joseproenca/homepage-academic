@@ -32,6 +32,8 @@ date_format = "Jan 2006"
     category = ""
     publication_type = ""
     author = ""
+    exclude_past = true
+    exclude_future = false
   
 [design]
   # Toggle between the various page layout types.

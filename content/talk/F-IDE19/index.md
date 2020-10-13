@@ -1,5 +1,5 @@
 ---
-title: F-IDE 2019
+title: F-IDE 2019  @ FM
 subtitle: Affiliated to Formal Methods 
 summary: __PC chair__ - Workshop on Formal Integrated Development Environment
 # authors:

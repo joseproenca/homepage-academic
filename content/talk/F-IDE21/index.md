@@ -1,5 +1,5 @@
 ---
-title: F-IDE 2021
+title: F-IDE 2021 @ NFM
 subtitle: Affiliated to Formal Methods 
 summary: __PC chair__ - Workshop on Formal Integrated Development Environment
 # authors:
@@ -7,6 +7,8 @@ summary: __PC chair__ - Workshop on Formal Integrated Development Environment
 tags: []
 categories: []
 date: "2021-05-24"
+event_start: "2021-05-24"
+event_end: "2021-05-28"
 # date: "2020-10-13"
 # lastMod: "2019-09-05T00:00:00Z"
 featured: true
