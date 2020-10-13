@@ -10,7 +10,7 @@ title = "José Proença"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://jose2.proenca.org/"
 
 buildFuture = true
 
