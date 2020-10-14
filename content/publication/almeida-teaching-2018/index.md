@@ -36,7 +36,7 @@ publishDate: '2020-10-09T23:22:34.137522Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Proc. ACM Program. Lang.*'
+publication: 'Proceedings of the ACM on Programming Languages - ICFP 2018'
 url_pdf: https://doi.org/10.1145/3236777
 doi: 10.1145/3236777
 ---

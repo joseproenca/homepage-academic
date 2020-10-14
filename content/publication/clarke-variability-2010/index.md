@@ -37,6 +37,6 @@ publication_types:
 abstract: ''
 publication: '*Formal Methods for Components and Objects - 9th International Symposium,
   FMCO 2010, Graz, Austria, November 29 - December 1, 2010. Revised Papers*'
-url_pdf: https://doi.org/10.1007/978-3-642-25271-6_11
+# url_pdf: https://doi.org/10.1007/978-3-642-25271-6_11
 doi: 10.1007/978-3-642-25271-6_11
 ---

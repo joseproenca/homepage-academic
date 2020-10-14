@@ -36,6 +36,6 @@ publication: 'Coordination Models and Languages - 18th IFIP WG 6.1 International
   COORDINATION 2016, Held as Part of the 11th International Federated Conference on
   Distributed Computing Techniques, DisCoTec 2016, Heraklion, Crete, Greece, June
   6-9, 2016, Proceedings'
-url_pdf: https://doi.org/10.1007/978-3-319-39519-7
+# url_pdf: https://doi.org/10.1007/978-3-319-39519-7
 doi: 10.1007/978-3-319-39519-7
 ---

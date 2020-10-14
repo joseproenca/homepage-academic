@@ -34,6 +34,6 @@ publication_types:
 abstract: ''
 publication: 'Proceedings 13th International Workshop on Foundations of Coordination Languages
   and Self-Adaptive Systems, FOCLASA 2014, Rome, Italy, 6th September 2014'
-url_pdf: https://doi.org/10.4204/EPTCS.175
+# url_pdf: https://doi.org/10.4204/EPTCS.175
 doi: 10.4204/EPTCS.175
 ---

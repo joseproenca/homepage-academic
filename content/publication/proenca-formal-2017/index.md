@@ -34,6 +34,6 @@ publication_types:
 abstract: ''
 publication: 'Formal Aspects of Component Software - 14th International Conference, FACS
   2017, Braga, Portugal, October 10-13, 2017, Proceedings'
-url_pdf: https://doi.org/10.1007/978-3-319-68034-7
+# url_pdf: https://doi.org/10.1007/978-3-319-68034-7
 doi: 10.1007/978-3-319-68034-7
 ---
