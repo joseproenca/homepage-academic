@@ -3,7 +3,7 @@
 
 title: Quality-Aware Reactive Programming for the Internet of Things
 subtitle: ''
-summary: ''
+summary: 'FSEN 2017'
 authors:
 - José Proença
 - Carlos Baquero

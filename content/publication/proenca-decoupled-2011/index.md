@@ -3,7 +3,7 @@
 
 title: Decoupled execution of synchronous coordination models via behavioural automata
 subtitle: ''
-summary: ''
+summary: 'FOCLASA 2011'
 authors:
 - José Proença
 - Dave Clarke

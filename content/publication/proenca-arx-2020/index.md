@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'ARx: Reactive Programming for Synchronous Connectors'
-subtitle: 'subt'
+subtitle: ''
 summary: 'COORDINATION 2020'
 authors:
 - José Proença

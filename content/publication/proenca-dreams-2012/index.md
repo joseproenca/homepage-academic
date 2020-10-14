@@ -3,7 +3,7 @@
 
 title: 'Dreams: a framework for distributed synchronous coordination'
 subtitle: ''
-summary: ''
+summary: 'SAC 2012'
 authors:
 - José Proença
 - Dave Clarke

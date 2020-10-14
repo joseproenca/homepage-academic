@@ -3,7 +3,7 @@
 
 title: Formal Verification of ROS-Based Robotic Applications Using Timed-Automata
 subtitle: ''
-summary: ''
+summary: 'FormaliSE 2017'
 authors:
 - Raju Halder
 - José Proença

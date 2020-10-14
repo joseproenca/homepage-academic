@@ -3,7 +3,7 @@
 
 title: Reconfiguration of Reo Connectors Triggered by Dataflow
 subtitle: ''
-summary: ''
+summary: 'GTVMT 2008'
 authors:
 - Christian Koehler
 - David Costa

@@ -3,7 +3,7 @@
 
 title: Coordination of Tasks on a Real-Time OS
 subtitle: ''
-summary: ''
+summary: 'COORDINATION 2019'
 authors:
 - Guillermina Cledou
 - José Proença

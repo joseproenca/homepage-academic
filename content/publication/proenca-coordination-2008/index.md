@@ -3,7 +3,7 @@
 
 title: Coordination Models Orc and Reo Compared
 subtitle: ''
-summary: ''
+summary: 'ENTCS 2008'
 authors:
 - José Proença
 - Dave Clarke

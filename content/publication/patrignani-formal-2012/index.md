@@ -3,7 +3,7 @@
 
 title: Formal analysis of policies in wireless sensor network applications
 subtitle: ''
-summary: ''
+summary: 'SESENA 2012'
 authors:
 - Marco Patrignani
 - Nelson Matthys

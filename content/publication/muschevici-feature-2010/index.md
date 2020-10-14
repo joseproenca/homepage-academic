@@ -3,7 +3,7 @@
 
 title: Feature Petri Nets
 subtitle: ''
-summary: ''
+summary: 'SPLCSE 2010'
 authors:
 - Radu Muschevici
 - Dave Clarke

@@ -3,7 +3,7 @@
 
 title: Interactive Interaction Constraints
 subtitle: ''
-summary: ''
+summary: 'COORDINATION 2013'
 authors:
 - José Proença
 - Dave Clarke

@@ -4,7 +4,7 @@
 title: Teaching how to program using automated assessment and functional glossy games
   (experience report)
 subtitle: ''
-summary: ''
+summary: 'ICFP 2018'
 authors:
 - José Bacelar Almeida
 - Alcino Cunha

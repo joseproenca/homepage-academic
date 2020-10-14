@@ -3,7 +3,7 @@
 
 title: Typed connector families and their semantics
 subtitle: ''
-summary: ''
+summary: 'SCP 2017'
 authors:
 - José Proença
 - Dave Clarke

@@ -3,7 +3,7 @@
 
 title: 'ReoLive: Analysing Connectors in Your Browser'
 subtitle: ''
-summary: ''
+summary: 'FOCLASA 2018'
 authors:
 - Rúben Cruz
 - José Proença

@@ -3,7 +3,7 @@
 
 title: 'Feature Nets: behavioural modelling of software product lines'
 subtitle: ''
-summary: ''
+summary: 'SoSyM 2016'
 authors:
 - Radu Muschevici
 - José Proença

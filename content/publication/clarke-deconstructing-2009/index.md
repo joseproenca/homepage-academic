@@ -3,7 +3,7 @@
 
 title: Deconstructing Reo
 subtitle: ''
-summary: ''
+summary: 'ENTCS 2009'
 authors:
 - Dave Clarke
 - José Proença

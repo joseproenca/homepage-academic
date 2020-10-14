@@ -4,7 +4,7 @@
 title: 'Hitch Hiker: A Remote Binding Model with Priority Based Data Aggregation for
   Wireless Sensor Networks'
 subtitle: ''
-summary: ''
+summary: 'CBSE 2015'
 authors:
 - Gowri Sankar Ramachandran
 - Wilfried Daniels

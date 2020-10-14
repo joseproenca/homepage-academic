@@ -3,7 +3,7 @@
 
 title: A Refinement Relation for Families of Timed Automata
 subtitle: ''
-summary: ''
+summary: 'SBMF 2017'
 authors:
 - Guillermina Cledou
 - José Proença

@@ -3,7 +3,7 @@
 
 title: Variability Modelling in the ABS Language
 subtitle: ''
-summary: ''
+summary: 'FMCO 2010'
 authors:
 - Dave Clarke
 - Radu Muschevici

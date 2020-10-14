@@ -3,7 +3,7 @@
 
 title: Channel-based coordination via constraint satisfaction
 subtitle: ''
-summary: ''
+summary: 'SCP 2011'
 authors:
 - Dave Clarke
 - José Proença

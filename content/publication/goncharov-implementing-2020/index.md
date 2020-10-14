@@ -3,7 +3,7 @@
 
 title: 'Implementing Hybrid Semantics: From Functional to Imperative'
 subtitle: ''
-summary: ''
+summary: 'CoRR 2020'
 authors:
 - Sergey Goncharov
 - Renato Neves

@@ -4,7 +4,7 @@
 title: 'Refraction: Low-Cost Management of Reflective Meta-Data in Pervasive Component-Based
   Applications'
 subtitle: ''
-summary: ''
+summary: 'CBSE 2015'
 authors:
 - Wilfried Daniels
 - José Proença

@@ -3,7 +3,7 @@
 
 title: Executable modelling of dynamic software product lines in the ABS language
 subtitle: ''
-summary: ''
+summary: 'FOSD 2013'
 authors:
 - Radu Muschevici
 - Dave Clarke

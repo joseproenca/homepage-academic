@@ -3,7 +3,7 @@
 
 title: A Procedure for Splitting Processes and its Application to Coordination
 subtitle: ''
-summary: ''
+summary: 'FOCLASA 2012'
 authors:
 - Sung-Shik T. Q. Jongmans
 - Dave Clarke

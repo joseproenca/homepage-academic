@@ -3,7 +3,7 @@
 
 title: 'Hitch Hiker 2.0: a binding model with flexible data aggregation for the Internet-of-Things'
 subtitle: ''
-summary: ''
+summary: 'JISA 2016'
 authors:
 - Gowri Sankar Ramachandran
 - José Proença

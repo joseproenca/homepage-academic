@@ -3,7 +3,7 @@
 
 title: 'Coordination via Interaction Constraints I: Local Logic'
 subtitle: ''
-summary: ''
+summary: 'ICE 2009'
 authors:
 - Dave Clarke
 - José Proença

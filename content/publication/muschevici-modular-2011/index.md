@@ -3,7 +3,7 @@
 
 title: Modular Modelling of Software Product Lines with Feature Nets
 subtitle: ''
-summary: ''
+summary: 'SEFM 2011'
 authors:
 - Radu Muschevici
 - José Proença

@@ -4,7 +4,7 @@
 title: 'The ABS tool suite: modelling, executing and analysing distributed adaptable
   object-oriented systems'
 subtitle: ''
-summary: ''
+summary: 'STTT 2012'
 authors:
 - Peter Y. H. Wong
 - Elvira Albert

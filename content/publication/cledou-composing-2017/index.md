@@ -3,7 +3,7 @@
 
 title: Composing Families of Timed Automata
 subtitle: ''
-summary: ''
+summary: 'FSEN 2017'
 authors:
 - Guillermina Cledou
 - José Proença

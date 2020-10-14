@@ -3,7 +3,7 @@
 
 title: Typed Connector Families
 subtitle: ''
-summary: ''
+summary: 'FACS 2015'
 authors:
 - José Proença
 - Dave Clarke

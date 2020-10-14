@@ -3,7 +3,7 @@
 
 title: Data Abstraction in Coordination Constraints
 subtitle: ''
-summary: ''
+summary: 'FOCLASA 2013'
 authors:
 - José Proença
 - Dave Clarke

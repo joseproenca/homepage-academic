@@ -3,7 +3,7 @@
 
 title: Proceedings of F-IDE@FM 2019
 subtitle: ''
-summary: ''
+summary: 'EPTCS 2019'
 authors:
 - Rosemary Monahan
 - Virgile Prevosto

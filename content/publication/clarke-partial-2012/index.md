@@ -3,7 +3,7 @@
 
 title: Partial Connector Colouring
 subtitle: ''
-summary: ''
+summary: 'COORDINATION 2012'
 authors:
 - Dave Clarke
 - José Proença

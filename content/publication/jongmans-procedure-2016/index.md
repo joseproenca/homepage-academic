@@ -3,7 +3,7 @@
 
 title: A procedure for splitting data-aware processes and its application to coordination
 subtitle: ''
-summary: ''
+summary: 'SCP 2016'
 authors:
 - Sung-Shik T. Q. Jongmans
 - Dave Clarke

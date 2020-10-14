@@ -3,7 +3,7 @@
 
 title: 'Tomography: lowering management overhead for distributed component-based applications'
 subtitle: ''
-summary: ''
+summary: 'M4IoT@Middleware 2015'
 authors:
 - Wilfried Daniels
 - José Proença

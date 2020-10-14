@@ -3,7 +3,7 @@
 
 title: Towards a Theory of Views for Feature Models
 subtitle: ''
-summary: ''
+summary: 'SPLCSE 2010'
 authors:
 - Dave Clarke
 - José Proença

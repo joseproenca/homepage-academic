@@ -3,7 +3,7 @@
 
 title: A Framework for Point-Free Program Transformation
 subtitle: ''
-summary: ''
+summary: 'IFL 2005'
 authors:
 - Alcino Cunha
 - Jorge Sousa Pinto

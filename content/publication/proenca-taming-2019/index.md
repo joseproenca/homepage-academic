@@ -3,7 +3,7 @@
 
 title: Taming Hierarchical Connectors
 subtitle: ''
-summary: ''
+summary: 'FSEN 2019'
 authors:
 - José Proença
 - Alexandre Madeira
