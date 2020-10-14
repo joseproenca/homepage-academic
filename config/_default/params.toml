@@ -93,7 +93,7 @@ phone = "+351 228340502"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rua Alfredo Allen, 535", city = "Porto", postcode = "4200-135", country = "Portugal", country_code = "PT"}
+address = {street = "CISTER Research Centre, Rua Alfredo Allen, 535", city = "Porto", postcode = "4200-135", country = "Portugal", country_code = "PT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -118,6 +118,8 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  ################
+  {icon = "globe", icon_pack = "fas", name = "Homepage @ CISTER", link = "https://cister-labs.pt/people/jose_proenca"}
   ]
 
 ############################

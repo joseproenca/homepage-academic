@@ -19,8 +19,8 @@
   weight = 55
 
 [[main]]
-  name = "Service"
-  url = "#service"
+  name = "Events"
+  url = "#event"
   weight = 18
 
 [[main]]

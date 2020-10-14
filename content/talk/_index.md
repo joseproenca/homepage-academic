@@ -1,6 +1,6 @@
 ---
-title: Service
-subtitle: Organization of events
+title: Events
+subtitle: Organization and Evaluation
 
 # View.
 #   1 = List

@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [DaVinci]
 publishDate: '2020-10-09T23:22:33.832862Z'
 publication_types:
 - '1'

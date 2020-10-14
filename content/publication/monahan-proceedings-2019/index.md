@@ -28,13 +28,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [DaVinci]
 publishDate: '2020-10-09T23:22:33.984649Z'
 publication_types:
 - '5'
 abstract: ''
 publication: 'Proceedings Fifth Workshop on Formal Integrated Development Environment, F-IDE@FM
   2019, Porto, Portugal, 7th October 2019'
-url_pdf: https://doi.org/10.4204/EPTCS.310
+# url_pdf: https://doi.org/10.4204/EPTCS.310
 doi: 10.4204/EPTCS.310
 ---
