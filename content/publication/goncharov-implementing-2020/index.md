@@ -35,5 +35,14 @@ publication_types:
 abstract: ''
 publication: '*CoRR*'
 url_pdf: https://arxiv.org/abs/2009.14322
-url_code: https://github.com/arcalab/lince
+# url_code: https://github.com/arcalab/lince
+
+links:
+    - name: ArXiv
+      url: https://arxiv.org/abs/2009.14322
+    - url: https://github.com/arcalab/lince
+      icon_pack: fab
+      icon: github
+      name: Code
+      
 ---
