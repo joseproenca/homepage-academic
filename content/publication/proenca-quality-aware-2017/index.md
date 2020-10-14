@@ -35,5 +35,6 @@ abstract: ''
 publication: '*Fundamentals of Software Engineering - 7th International Conference,
   FSEN 2017, Tehran, Iran, April 26-28, 2017, Revised Selected Papers*'
 url_pdf: https://doi.org/10.1007/978-3-319-68972-2_12
+url_slides: slides/quarp-FSEN.pdf
 doi: 10.1007/978-3-319-68972-2_12
 ---

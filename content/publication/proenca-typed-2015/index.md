@@ -35,5 +35,6 @@ abstract: ''
 publication: '*Formal Aspects of Component Software - 12th International Conference,
   FACS 2015, Niterói, Brazil, October 14-16, 2015, Revised Selected Papers*'
 url_pdf: https://doi.org/10.1007/978-3-319-28934-2_16
+url_code: https://github.com/joseproenca/parameterised-connectors 
 doi: 10.1007/978-3-319-28934-2_16
 ---

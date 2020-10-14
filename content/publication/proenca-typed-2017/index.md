@@ -34,5 +34,6 @@ publication_types:
 abstract: ''
 publication: '*Sci. Comput. Program.*'
 url_pdf: https://doi.org/10.1016/j.scico.2017.03.002
+url_code: https://github.com/joseproenca/parameterised-connectors 
 doi: 10.1016/j.scico.2017.03.002
 ---

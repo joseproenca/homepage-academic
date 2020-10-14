@@ -38,5 +38,6 @@ publication: '*Coordination Models and Languages - 22nd IFIP WG 6.1 Internationa
   Conference on Distributed Computing Techniques, DisCoTec 2020, Valletta, Malta,
   June 15-19, 2020, Proceedings*'
 url_pdf: https://doi.org/10.1007/978-3-030-50029-0_3
+url_code: https://github.com/arcalab/arx
 doi: 10.1007/978-3-030-50029-0_3
 ---
