@@ -5,6 +5,7 @@ summary: __Verification and Validation of Automated Systems Safety and Security_
 tags:
 - H2020
 - ECSEL JU
+- VALU3S
 
 date: "2020-04-01T00:00:00Z"
 

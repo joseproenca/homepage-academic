@@ -4,6 +4,7 @@ summary: __Lightweight computation for networks at the edge__ - is a H2020 europ
 tags:
 - H2020
 - FP7
+- Lightkone
 date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
