@@ -1,6 +1,7 @@
 ---
 title: Reassure (07/2018-now)
 summary: __Running Secure Runtime Verification for Reliable Real-Time Embedded Software__ - is an FCT project that proposes a novel framework for Runtime Verification of Real-Time Embedded Systems.
+featured: true
 
 tags:
 - FCT

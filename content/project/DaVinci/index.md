@@ -2,6 +2,8 @@
 title: DaVinci (07/2018-now) - Coordinator
 summary:  __Distributed Architectures - Variability and Interaction for Cyber-Physical Systems__ - is an FCT project to analyse interactions among software components considering aspects such as real time and variability. It currently produced 4 conference publications, 1 master thesis, 5 talks, it was involved in the organisation of a workshop and an invited tutorial, and produced several tools available online in http://arcatools.org.
 
+featured: true
+
 tags:
 - FCT
 - DaVinci

@@ -1,13 +1,13 @@
 ---
-title: FOCLASA 2015 @ SEFM
+title: FOCLASA 2014 @ SEFM
 subtitle: Affiliated to SEFM
-summary: __PC member__ - International Workshop on Coordination and Self-adaptativeness of Software Applications
+summary: __PC Chair__ - International Workshop on Coordination and Self-adaptativeness of Software Applications
 # authors:
 # - joseproenca
 tags: []
 categories: []
-date: "2015-06-17"
-# lastMod: "2015-09-05T00:00:00Z"
+date: "2014-06-17"
+# lastMod: "2014-09-05T00:00:00Z"
 featured: false
 draft: false
 
@@ -26,5 +26,5 @@ image:
 projects: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://foclasa15.lcc.uma.es
+external_link: http://foclasa14.lcc.uma.es
 ---
