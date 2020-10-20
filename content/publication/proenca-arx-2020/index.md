@@ -15,6 +15,13 @@ date: "2020-01-01"
 featured: true
 draft: false
 
+# links:
+#     - url: https://www.youtube.com/watch?v=74RUzfYneNI&t=2s
+#       icon_pack: fab
+#       icon: youtube
+#       name: Video
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -39,5 +46,7 @@ publication: '*Coordination Models and Languages - 22nd IFIP WG 6.1 Internationa
   June 15-19, 2020, Proceedings*'
 url_pdf: https://doi.org/10.1007/978-3-030-50029-0_3
 url_code: https://github.com/arcalab/arx
+url_slides: http://arca.di.uminho.pt/content/arx-slides-20.pdf
+url_video: https://www.youtube.com/watch?v=74RUzfYneNI&t=2s
 doi: 10.1007/978-3-030-50029-0_3
 ---
