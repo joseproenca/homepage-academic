@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Senior Researcher <br><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="images/logo_cister.png" alt="CISTER logo" style="width:18rem;display:inline;padding-top:1.3rem;"></a>
 
 # Organizations/Affiliations
-organizations:
-- name: CISTER Research Centre
-  url: "https://cister-labs.pt"
+# organizations:
+# - name: CISTER Research Centre
+#   url: "https://cister-labs.pt"
 
 # Short bio (displayed in user profile at end of posts)
 bio: José Proença is a senior researcher at CISTER, ISEP, Portugal, working on formal models for component-based and critical systems.
@@ -46,9 +46,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:pro@isep.ipp.pt".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/joseproenca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/simpple
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/josepproenca/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=d_EFDzgAAAAJ
@@ -58,15 +64,12 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/40/5853.html
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/josepproenca/
 - icon: ciencia-vitae
   icon_pack: ai
   link: https://www.cienciavitae.pt/portal/2412-FE81-2767
-- icon: github
-  icon_pack: fab
-  link: https://github.com/joseproenca
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jose_Proenca
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

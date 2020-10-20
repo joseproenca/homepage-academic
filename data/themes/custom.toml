@@ -5,12 +5,12 @@ name = "custom"
 light = true
 
 # Primary - icons and links in page
-primary = "#3f51b5"
+primary = "#018cb3"
 primary_light = "#3f51b5"
 primary_dark = "#f18141"
 
 # Menu - top bar
-menu_primary = "#3f51b5" # colour of the Bar
+menu_primary = "#018cb3" # colour of the Bar
 menu_text = "#fff"       # colour of the links
 menu_text_active = "#f18141" # colour of the active link
 menu_title = "#fff"      # colour of the name/title
@@ -21,7 +21,7 @@ home_section_even = "#fff5f0"
 
 
 ### CISTER:
-# blue: 009dc8
+# blue: 009dc8 / 0096bf / 018cb3
 # orange: f18141
 
 
