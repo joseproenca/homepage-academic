@@ -1,7 +1,7 @@
 ---
 title: Friday puzzle 
 # subtitle: 
-summary: Brain teasers discussed within [CWI](https://www.cwi.nl) colleagues in SEN3 groups during coffee breaks (2007-2009)
+summary: Brain teasers discussed within [CWI](https://www.cwi.nl) colleagues in SEN3 groups during coffee breaks (2007-2009).
 # authors:
 # - joseproenca
 tags: []
@@ -15,7 +15,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/XN4T2PVUUgk)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/MAEbdaFe4ps)'
   focal_point: ""
 
 # Projects (optional).
@@ -27,9 +27,8 @@ image:
 projects: []
 ---
 
-# Blog in wordpress
+## Blog in wordpress
 
-You can read the puzzles in 
 You can find a set of brain teasers discussed within [CWI](https://www.cwi.nl) colleagues in SEN3 groups during coffee breaks (2007-2009) in
 
 ### {{< icon name="globe" pack="fas">}}[https://fridaypuzzle.wordpress.com](https://fridaypuzzle.wordpress.com)
