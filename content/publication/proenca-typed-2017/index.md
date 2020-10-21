@@ -35,5 +35,6 @@ abstract: ''
 publication: '*Sci. Comput. Program.*'
 url_pdf: https://doi.org/10.1016/j.scico.2017.03.002
 url_code: https://github.com/joseproenca/parameterised-connectors 
+url_slides: slides/connectorfamilies-facs15.pdf
 doi: 10.1016/j.scico.2017.03.002
 ---
