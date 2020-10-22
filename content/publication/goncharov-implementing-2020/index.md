@@ -8,11 +8,11 @@ authors:
 - Sergey Goncharov
 - Renato Neves
 - José Proença
-tags: [DaVinci,Reassure,VALU3S,Klee]
+tags: [DaVinci,Reassure,VALU3S,Klee,Lince,Hybrid Programs]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-10-10T00:22:33+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

@@ -13,7 +13,7 @@ tags: [DaVinci,Reassure]
 categories: []
 date: '2019-01-01'
 lastmod: 2020-10-10T00:22:33+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
