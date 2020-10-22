@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Researcher <br><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="https://jose.proenca.org/images/logo_cister.png" alt="CISTER logo" style="width:18rem;display:inline;padding-top:1.3rem;"></a>
+role: Senior Researcher
+# <br><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="https://jose.proenca.org/images/logo_cister.png" alt="CISTER logo" style="width:18rem;display:inline;padding-top:1.3rem;"></a>
 
 # Organizations/Affiliations
-# organizations:
-# - name: CISTER Research Centre
-#   url: "https://cister-labs.pt"
+organizations:
+- name: CISTER Research Centre
+  url: "https://cister-labs.pt"
 
 # Short bio (displayed in user profile at end of posts)
 bio: José Proença is a senior researcher at CISTER, ISEP, Portugal, working on formal models for component-based and critical systems.
@@ -92,3 +93,9 @@ user_groups:
 I am currently a postdoc at [CISTER](https://cister-labs.pt), [ISEP](https://isep.ipp.pt), Portugal, working on formal models for component-based systems. Until January 2019 I worked in [HASLab](https://haslab.pt), [INESC TEC](https://inesctec.pt) & [University of Minho](http://di.uminho.pt), working with [Luís Barbosa](http://di.uminho.pt/~lsb), and was affiliated with [Distrinet](http://distrinet.cs.kuleuven.be/), [KU Leuven](http://www.kuleuven.be/), until January 2016, working mainly with [Danny Hughes](https://distrinet.cs.kuleuven.be/people/dannyh) and [Dave Clarke](http://supercooldave.github.io). My work has been mainly on coordination of distributed components, often associated to the [Reo](http://reo.project.cwi.nl/) coordination language, and on formal approaches to software product line engineering. More recently I have been working on component models for embedded devices in the context of the [LooCI](https://distrinet.cs.kuleuven.be/software/looci) middleware and micro PnP (now part of [VersaSense](https://www.versasense.com/)), and in the context of the [VirtuosoNext RTOS](http://www.altreonic.com/content/product-overview).
 
 Before I graduated in University of Minho, Portugal, for a 5 year degree in Mathematics and Computer Science. I studied abroad for 6 months as an Erasmus student in Bristol University, UK. I defended my PhD in [Leiden University](http://liacs.leidenuniv.nl/) in May 2011, for my work carried in [CWI](http://www.cwi.nl/), Amsterdam, in the group for [Foundations of Software Engineering](http://www.cwi.nl/research-groups/Foundations-of-software-engineering).
+
+<ul style="display: inline-flex; text-align: center; padding-left: 0px; padding-top: 1rem;">
+<li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="images/logo_cister.png" alt="CISTER logo" style="width:16rem;display:inline;"></a></li>
+<li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="https://isep.ipp.pt" target="_blank"><img src="images/logo_isep.png" alt="ISEP logo" style="width:18rem;display:inline;"></a></li>
+<li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="http://arca.di.uminho.pt" target="_blank"><img src="images/logo_arca.png" alt="ARCA logo" style="width:4rem;display:inline;"></a></li>
+</ul>
