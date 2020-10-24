@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Implementing Hybrid Semantics: From Functional to Imperative (Extended Version)'
+title: 'Implementing Hybrid Semantics: From Functional to Imperative'
 subtitle: ''
-summary: 'CoRR 2020'
+summary: 'ICTAC 2020'
 authors:
 - Sergey Goncharov
 - Renato Neves
 - José Proença
 tags: [DaVinci,Reassure,VALU3S,Klee,Lince,Hybrid Programs]
 categories: []
-date: '2020-01-01'
-lastmod: 2020-10-10T00:22:33+01:00
-featured: false
+date: '2020-10-30'
+lastmod: 2020-10-24T13:38:32+01:00
+featured: true
 draft: false
 
 # Featured image
@@ -29,20 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [DaVinci,Reassure,VALU3S,Klee]
-publishDate: '2020-10-09T23:22:33.500407Z'
+publishDate: '2020-10-24T12:38:31.978552Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*CoRR*'
-url_pdf: https://arxiv.org/abs/2009.14322
-url_code: https://github.com/arcalab/lince
-
 links:
-    - name: ArXiv
+    - name: Extended
       url: https://arxiv.org/abs/2009.14322
-    # - url: https://github.com/arcalab/lince
-    #   icon_pack: fab
-    #   icon: github
-    #   name: Code
-      
+publication: '*Theoretical Aspects of Computing - ICTAC 2020 - 17th International
+  Colloquium, Macau S.A.R., China, October 31 - November 30, 2020, Proceedings*'
 ---
