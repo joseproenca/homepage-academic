@@ -27,7 +27,7 @@ image:
 projects: [DaVinci,Klee]
 ---
 
-ArcaTools is a framework to bring to the web a collection of tools, decreasing the time to start experimenting with existing tools, while exploiting the interactivity and visualisation capabilities of existing web technologies. Developed mainly by members of ARCA.
+[ArcaTools](http://arcatools.org) is a framework to bring to the web a collection of tools, decreasing the time to start experimenting with existing tools, while exploiting the interactivity and visualisation capabilities of existing web technologies. Developed mainly by members of ARCA.
 
 All tools follow the following approach:
 
@@ -40,7 +40,9 @@ You can find experiment the tools and find the associated resources online:
 
 ### {{< icon name="globe" pack="fas">}}[http://arcatools.org](http://arcatools.org)
 
+<p style="padding-top: 20px;">
 Some of the featured tools include:
+</p>
 
 - An analyser and verifier of families of Reo connectors, based on traced monoidal symmetric categories - http://arcatools.org/preo.
 

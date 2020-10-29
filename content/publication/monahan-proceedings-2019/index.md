@@ -12,7 +12,7 @@ tags: [DaVinci]
 categories: []
 date: '2019-01-01'
 lastmod: 2020-10-10T00:22:34+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
