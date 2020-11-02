@@ -46,3 +46,7 @@ links:
     #   name: Code
       
 ---
+
+## Abstract
+
+Hybrid programs combine digital control with differential equations, and naturally appear in a wide range of application domains, from biology and control theory to real-time software engineering. The entanglement of discrete and continuous behaviour inherent to such programs goes beyond the established computer science foundations, producing challenges related to e.g. infinite iteration and combination of hybrid behaviour with other effects. A systematic treatment of hybridness as a dedicated computational effect has emerged recently. In particular, a generic idealized functional language HybCore with a sound and adequate operational semantics has been proposed. The latter semantics however did not provide hints to implementing HybCore as a runnable language, suitable for hybrid system simulation (e.g. the semantics features rules with uncountably many premises). We introduce an imperative counterpart of HybCore, whose semantics is simpler and runnable, and yet intimately related with the semantics of HybCore at the level of hybrid monads. We then establish a corresponding soundness and adequacy theorem. To attest that the resulting semantics can serve as a firm basis for the implementation of typical tools of programming oriented to the hybrid domain, we present a web-based prototype implementation to evaluate and inspect hybrid programs, in the spirit of GHCi for Haskell and UTop for OCaml. The major asset of our implementation is that it formally follows the operational semantic rules.
