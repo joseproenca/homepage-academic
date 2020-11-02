@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Typed connector families and their semantics
+title: 'Hubs for VirtuosoNext: Online verification of real-time coordinators'
 subtitle: ''
 summary: 'SCP 2020'
 authors:
