@@ -34,6 +34,8 @@ publication_types:
 - '1'
 abstract: ''
 links:
+    - name: Accepted
+      url: https://ictac2020.github.io/accepted/
     - name: Extended
       url: https://arxiv.org/abs/2009.14322
 publication: '*Theoretical Aspects of Computing - ICTAC 2020 - 17th International
