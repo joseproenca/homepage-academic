@@ -34,10 +34,11 @@ publication_types:
 - '1'
 abstract: ''
 links:
-    - name: Accepted
-      url: https://ictac2020.github.io/accepted/
     - name: Extended
       url: https://arxiv.org/abs/2009.14322
+url_slides: slides/ictac20.pdf
+url_code: https://github.com/arcalab/lince
+doi: 10.1007/978-3-030-64276-1_14
 publication: '*Theoretical Aspects of Computing - ICTAC 2020 - 17th International
   Colloquium, Macau S.A.R., China, October 31 - November 30, 2020, Proceedings*'
 ---
