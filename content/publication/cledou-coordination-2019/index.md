@@ -40,5 +40,6 @@ publication: '*Coordination Models and Languages - 21st IFIP WG 6.1 Internationa
   June 17-21, 2019, Proceedings*'
 url_pdf: https://doi.org/10.1007/978-3-030-22397-7_15
 url_code: https://github.com/arcalab/hubAutomata
+url_slides: slides/hubs-coord19.pdf
 doi: 10.1007/978-3-030-22397-7_15
 ---
