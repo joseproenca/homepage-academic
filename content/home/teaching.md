@@ -36,6 +36,12 @@ Ongoing supervisor of the PhD thesis:
 <p></p>
 
   * [Giann Nandi](http://www.cister.isep.ipp.pt/people/giann_nandi/), _A Novel Framework for Certified Runtime Verification of Safety-Critical Cyber-Physical Systems_ (since 2019)
+
+<p></p>
+Ongoing supervisor of the MSc thesis:
+<p></p>
+
+  * José Matias, _A DSL for a Cloud infrastructure_ (since 2020)
   """
 
 [[experience]]
