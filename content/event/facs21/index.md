@@ -5,7 +5,7 @@ summary: __Steering committee member__ - International Conference on Formal Aspe
 # - joseproenca
 tags: []
 categories: []
-date: "2021-02-15"
+date: "2021-10-28"
 # lastMod: "2019-09-05T00:00:00Z"
 featured: true
 draft: false
@@ -36,9 +36,9 @@ FACS 2021 is concerned with how formal methods can be applied to component-based
 
 # Important Dates (tentative)
 
-Abstract Submission: June 25, 2021 AoE
-Paper Submission: July 2, 2021 AoE
-Notification: August 20, 2021
-Camera Ready: August 31, 2021
-Registration (early): TBA
-Conference: October 28 – 29, 2021
+- Abstract Submission: June 25, 2021 AoE
+- Paper Submission: July 2, 2021 AoE
+- Notification: August 20, 2021
+- Camera Ready: August 31, 2021
+- Registration (early): TBA
+- Conference: October 28 – 29, 2021
