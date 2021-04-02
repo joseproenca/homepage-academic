@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Senior Assistant Researcher
 # <br><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="https://jose.proenca.org/images/logo_cister.png" alt="CISTER logo" style="width:18rem;display:inline;padding-top:1.3rem;"></a>
 
 # Organizations/Affiliations
@@ -19,7 +19,7 @@ organizations:
   url: "https://cister-labs.pt"
 
 # Short bio (displayed in user profile at end of posts)
-bio: José Proença is a researcher and invited professor at Instituto Politécnico do Porto Instituto Superior de Engenharia do Porto, working in the Research Center in Real-Time & Embedded Computing Systems, investigating mainly coordination aspects and formal methods in the context of Cyber-Physical Systems. He is actively involved in a H2020 project and in 2 FCT projects, in one of which as coordinator. He currently belongs to the steering committee of 2 international conferences in fundamental computer science, he chaired the program committee of 5 international research venues with edited proceedings, edited 2 journal volumes, and was the member of 16 program-committees of international venues.
+bio: José Proença is an assistant researcher and invited professor at Instituto Politécnico do Porto Instituto Superior de Engenharia do Porto, working in the Research Center in Real-Time & Embedded Computing Systems, investigating mainly coordination aspects and formal methods in the context of Cyber-Physical Systems. He is actively involved in a H2020 project and in 2 FCT projects, in one of which as coordinator. He currently belongs to the steering committee of 2 international conferences in fundamental computer science, he chaired the program committee of 5 international research venues with edited proceedings, edited 2 journal volumes, and was the member of 16 program-committees of international venues.
 
 interests:
 - Formal methods
