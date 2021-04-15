@@ -1,6 +1,6 @@
 ---
 title: FACS 2021
-summary: __Steering committee member__ - International Conference on Formal Aspects of Component Software 
+summary: __Steering committee member & PC member__ - International Conference on Formal Aspects of Component Software 
 # authors:
 # - joseproenca
 tags: []
