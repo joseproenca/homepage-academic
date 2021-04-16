@@ -28,8 +28,16 @@ date_format = "Jan 2006"
   description = """
 <p></p>In charge of lab classes of the course units:<p></p>
 
-  * [APROG](https://www.dei.isep.ipp.pt/~jasm/aprog-mec-EN/) Introductory course on Algorithms and Programming
-  * [SCOMP](https://www.isep.ipp.pt/Course/Course/26) Concurrency control mechanisms in C
+  * PPROG - _Object Oriented Paradigm_ ([2020/21](https://www.isep.ipp.pt/Course/Course/26))
+  * APROG - _Introductory course on Algorithms and Programming_ ([2019/20](https://www.dei.isep.ipp.pt/~jasm/aprog-mec-EN/))
+  * SCOMP - _Concurrency control mechanisms in C_ ([2019/20](https://www.isep.ipp.pt/Course/Course/26))
+
+<p></p>
+Invited lecturer in the following course units:
+<p></p>
+
+  * AC - _Software Architecture and Design Calculi_, [UM](https://di.uminho.pt), MSc level ([2019/20](https://arca.di.uminho.pt/ac-1920/), [2020/21](https://arca.di.uminho.pt/ac-2021/))
+  * CPC - _Cyber-Physical Computation_, [UM](https://di.uminho.pt), for PhD students of [MAPi](http://mapi.map.edu.pt/) (2019/20)
 
 <p></p>
 Ongoing supervisor of the PhD thesis:
