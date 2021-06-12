@@ -1,5 +1,5 @@
 ---
-title: Introduction to Model Checking
+title: Introduction to Model Checking (video)
 # subtitle: 
 summary: Video of an introductory session on what is Model Checking given in a training session for the [VALU3S](http://valu3s.eu/) project.
 # authors:
