@@ -34,6 +34,8 @@ publishDate: '2021-07-30T09:03:49.217253Z'
 links:
     - name: arXiv
       url: https://arxiv.org/abs/2108.01784
+    - name: FM'21
+      url: https://lcs.ios.ac.cn/fm2021/
 publication_types:
 - '1'
 abstract: 'We propose featured team automata to support variability in the development and analysis of teams, which are systems of reactive components that communicate according to specified synchronisation types. A featured team automaton concisely describes a family of concrete product models for specific configurations determined by feature selection. We focus on the analysis of communication-safety properties, but doing so product-wise quickly becomes impractical. Therefore, we investigate how to lift notions of receptiveness (no message loss) to the level of family models. We show that featured (weak) receptiveness of featured team automata characterises (weak) receptiveness for all product instantiations. A prototypical tool supports the developed theory.'
