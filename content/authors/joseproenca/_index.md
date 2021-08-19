@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Assistant Researcher
+role: Assistant Researcher
 # <br><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="https://jose.proenca.org/images/logo_cister.png" alt="CISTER logo" style="width:18rem;display:inline;padding-top:1.3rem;"></a>
 
 # Organizations/Affiliations
