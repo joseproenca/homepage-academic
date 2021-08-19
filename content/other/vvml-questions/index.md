@@ -212,7 +212,7 @@ __Conclusions:__
 (5) annd (6) are not supported yet but ok; (5) is equivalent to have 2 start nodes, one for each activity.
 (7) is a bit strange but ok (would be better with a `gateway` instead of `fork`.)
 (8) is not supported yet, but ok (and equivalent to (2)).
-(9) is not valid, since all activities must have an incoming (sequence) arrow.
+(9) is not valid, since all activities must have an incoming (sequence) arrow (__Suggestion:__ syntactic sugar - no incoming arrow is interpreted as an arrow from the start node).
 
 ---
 
@@ -376,6 +376,7 @@ __Guess:__
 Forks do not seem to be able to connect to each other yet, but I guess they could and will.
 <!-- When mixing sequence- and artefact-flows it could get more complicated, e.g., assuming an artefact could -->
 
+
 ## Mandatory artefacts
 
 The interplay between artefacts and sequence flow seems something relatively new. It would be good to have this interplay precise in a useful way.
@@ -417,6 +418,26 @@ classDef st fill:#000,stroke:#f22,stroke-width:4px;
 classDef tr fill:#888,stroke-width:0pt;
 classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
 ```
+
+If we want to observe `send` and `get` of artifacts:
+
+```mermaid
+graph LR
+    W1([A1]) -.-> W2([A2])
+    Init1(( )):::in --> W1 & W2
+    W2 -.- C1[1. Can A2 start before A1 stops? guess: yes]
+    W2 -.- C2[2. Can A2 start before A1 starts? guess: yes, with optional artifacts]
+    W2 -.- C3[3. Valid trace?: A1.start, A2.start, A1.stop, S2.stop]
+    W2 -.- C4[4. Invalid trace?: A1.start, A2.start, A1.art.send, A2.art.get, A2.art.get, ...]
+classDef in fill:#2f2,stroke:#ccc;
+classDef st fill:#000,stroke:#f22,stroke-width:4px;
+classDef tr fill:#888,stroke-width:0pt;
+classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
+```
+
+
+__Suggestion:__
+Distinguish _optional_ from _mandatory_ (input) artifacts, using some new syntax for that, allowing flows to be also controlled by artifacts.
 
 __Guess:__
 As before, I think it should be ok for A3 (and A3a) to start before A2.
