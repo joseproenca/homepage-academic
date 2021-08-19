@@ -131,6 +131,7 @@ __Conclusions:__
 A new `sync bar` is planned to be introduced, mixing sequence- and artefact-flows, whereas all input sequences and artefacts must be present for the `bar` to be active.
 If 3 artefacts are produced by A1 in the loop, only 1 artefact should go to `out`.
 I guess this should not specify how artefacts are collected by the last `fork` while waiting for it to become active.
+(More on the `sync bar` further below.)
 
 
 ## Dependency vs. instantiating
