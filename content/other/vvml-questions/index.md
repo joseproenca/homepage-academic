@@ -57,11 +57,12 @@ graph LR
     more --yes--> W1
     more --no--> Stop(( )):::st
   end
-  T1 -.-> out
+  T1 -....-> out:::it
 classDef in fill:#2f2,stroke:#ccc;
 classDef st fill:#000,stroke:#f22,stroke-width:4px;
 classDef tr fill:#888,stroke-width:0pt;
 classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
+classDef it fill:#f88,stroke-width:1pt,stroke:#822;
 ```
 
 <!-- 
@@ -98,11 +99,12 @@ graph LR
     T2 --> Stop(( )):::st
     T1 -.-> T2
   end
-  T2 -.-> out
+  T2 -..-> out:::it
 classDef in fill:#2f2,stroke:#ccc;
 classDef st fill:#000,stroke:#f22,stroke-width:4px;
 classDef tr fill:#888,stroke-width:0pt;
 classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
+classDef it fill:#f88,stroke-width:1pt,stroke:#822;
 ```
 
 Another variation example below.
@@ -120,11 +122,12 @@ graph LR
     T2 --> Stop(( )):::st & buffer
     T1 -.-> buffer
   end
-  buffer -.-> out
+  buffer -.-> out:::it
 classDef in fill:#2f2,stroke:#ccc;
 classDef st fill:#000,stroke:#f22,stroke-width:4px;
 classDef tr fill:#888,stroke-width:0pt;
 classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
+classDef it fill:#f88,stroke-width:1pt,stroke:#822;
 ```
 
 __Conclusions:__
@@ -132,6 +135,28 @@ A new `sync bar` is planned to be introduced, mixing sequence- and artefact-flow
 If 3 artefacts are produced by A1 in the loop, only 1 artefact should go to `out`.
 I guess this should not specify how artefacts are collected by the last `fork` while waiting for it to become active.
 (More on the `sync bar` further below.)
+
+__Pierluigi:__
+Expose method artefacts only after the method ends. Until there, artefacts can be updated. Hence 1st version is better.
+Also, drop fork of artefacts, ending up with version 4 below.
+
+```mermaid
+graph LR
+  subgraph Method
+    Init(( )):::in --> W1([A1])
+    W1 --> W2([A2])
+    W1 -.-> W2
+    W2 --> more{more?}:::gw
+    more --yes--> W1
+    more --no--> Stop(( )):::st
+  end
+  W1 -....-> out:::it
+classDef in fill:#2f2,stroke:#ccc;
+classDef st fill:#000,stroke:#f22,stroke-width:4px;
+classDef tr fill:#888,stroke-width:0pt;
+classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
+classDef it fill:#f88,stroke-width:1pt,stroke:#822;
+```
 
 
 ## Dependency vs. instantiating
@@ -154,11 +179,12 @@ classDef in fill:#2f2,stroke:#ccc;
 classDef st fill:#000,stroke:#f22,stroke-width:4px;
 classDef tr fill:#888,stroke-width:0pt;
 classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
+classDef it fill:#f88,stroke-width:1pt,stroke:#822;
 ```
 
 __Conclusions:__
 It is ambiguous on whether `A3` should be executed multiple times or one time.
-This is therefore a ill-designed flow, and should be avoided.
+This is therefore a ill-designed flow, and should be avoided. (Pierluigi agrees this is an illegal model.)
 
 ## Multiplicity
 
@@ -214,7 +240,18 @@ __Conclusions:__
 (8) is not supported yet, but ok (and equivalent to (2)).
 (9) is not valid, since all activities must have an incoming (sequence) arrow (__Suggestion:__ syntactic sugar - no incoming arrow is interpreted as an arrow from the start node).
 
----
+__Pierluigi:__
+Some contradicting opinions:
+
+ - 1 and 2 need a fork/join; avoid implicit representations (current examples use (2))
+ - 3 is OK, having 2 arrows from an "output pin" (currently a fork is used, but should not)
+ - 4 is wrong: "it means that A1 and A2 provide the same output data, if this is the intention, a data store is required but without a right control flow that sinchronize A1 and A2 execution, thus the data update sequence, the data value is undefined." (I (José) do not see a clear problem of A3 using the last available artefact.)
+ - 7 is wrong (only 1 end point is allowed, or at most something equivalent to use 1 end point)
+ - 8 is correct (and should be used instead of (2))
+ - 9 is ilogic: it means A2 will never run.
+
+
+## Overriding method output artefacts
 
 Will both the artefact from A1 and A2 below go to Out?
 
@@ -231,11 +268,12 @@ graph LR
     W1 --> W2; W2 --> W3;
     W3 --> Stop(( )):::st
   end
-  T1 & T2 -.-> out
+  T1 & T2 -.-> out:::it
 classDef in fill:#2f2,stroke:#ccc;
 classDef st fill:#000,stroke:#f22,stroke-width:4px;
 classDef tr fill:#888,stroke-width:0pt;
 classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
+classDef it fill:#f88,stroke-width:1pt,stroke:#822;
 ```
 
 __Conclusions:__
@@ -245,6 +283,8 @@ In many cases we want to distinguish the output of A1 and A2, where we should pr
 
 A similar discussion is on whether internal artefacts are allowed or if all should be made public. I prefer the former (more modular).
 
+__Pierluigi:__
+Output artifact `out` is only made available after the method ends. Hence the artefact from A1 to A2 is never exposed and unnecessary.
 
 ## Small DSL metamodel comments
 
@@ -262,6 +302,10 @@ Some doubts of possible imprecisions in the DSL metamodel (Fig. 8 in the [handbo
 
 There was a discussion to __generalise Fork/Joins__ to so-called __sync bars__ to allow a combination of many `ArtifactFlows` and `SequenceFlows`  both as input and output. Traditional `ForkNode` were meant to have 2 inputs and 1 output or vice-versa, and without mixing `ArtifactFlows` and `SequenceFlows`.
 Sync bars should replace the traditional `ForkNodes`, since they do not break their semantics.
+
+__Pierluigi:__
+Sync bars are confusing and should NOT be used. Mixing both flows "increases complexity and decreases comprehension".
+
 
 ### Interpretation 1: merge and replicate
 My interpretation of sync bars below.
@@ -355,15 +399,19 @@ classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
 __Guess:__
 A3 will be stopped or ignored once the method stops. If A3 produces artefacts, these will be ignored after stopping.
 
+__Pierluigi:__
+This example does not make sense because __only 1 end point can exist__, and because __all activities must be able to reach an end point__ (I'm inferring this property).
+
+<!-- 
 ```mermaid
 graph LR
     W1([A1]); W2([A2]);  W3([A3]); W4([A4]); W5([A5]); 
     T1[ ]:::tr; T2[ ]:::tr;
-    Init1(( )):::in --> W1
-    Init2(( )):::in --> W2
-    W1-->T1; T1-->T2 & W3; T2-->W4 & W5
-    W5-->St(( )):::st
-    W2--->T2
+    Init1(( )):::in ~~> W1
+    Init2(( )):::in ~~> W2
+    W1~~>T1; T1~~>T2 & W3; T2~~>W4 & W5
+    W5~~>St(( )):::st
+    W2-~~>T2
     T2 -...- C[Can forks be linked?]
     St -.- C2[Invalid trace? Init, A2.start, A2.stop, A5.start, A5.stop, Stop]
 classDef in fill:#2f2,stroke:#ccc;
@@ -371,15 +419,16 @@ classDef st fill:#000,stroke:#f22,stroke-width:4px;
 classDef tr fill:#888,stroke-width:0pt;
 classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
 ```
-
 __Guess:__
 Forks do not seem to be able to connect to each other yet, but I guess they could and will.
+ -->
 <!-- When mixing sequence- and artefact-flows it could get more complicated, e.g., assuming an artefact could -->
 
 
 ## Mandatory artefacts
 
 The interplay between artefacts and sequence flow seems something relatively new. It would be good to have this interplay precise in a useful way.
+In the example below, assume that A3 is able to execute with and without the artefact from A2.
 
 ```mermaid
 graph LR
@@ -398,6 +447,8 @@ classDef gw fill:#8f8,stroke-width:1pt,stroke:#000;
 
 __Guess:__
 It should be ok for A3 to start before A2 (artefacts should not be mandatory to start (or to finish)).
+
+
 A refined scenario follows below, unfolding a possible A3.
 
 ```mermaid
@@ -442,6 +493,9 @@ Distinguish _optional_ from _mandatory_ (input) artifacts, using some new syntax
 __Guess:__
 As before, I think it should be ok for A3 (and A3a) to start before A2.
 
+__Pierluigi:__
+_"Similar comment as previous section. There is a concurrency problem to be represented correctly. I do not agree with the "suggestion": if an action has an input, it will take care on it. The input should be NULL (or EMPTY) but is there."_
+
 ## State & evolution of a workflow
 
 The __state__  could be a tuple of:
@@ -462,31 +516,12 @@ A __step__ of a workflow can be:
  - A.art.write
  - A.art.read
 
-<!-- 
-```plantuml format="png" classes="uml myDiagram" alt="My super diagram placeholder" title="My super diagram" width="300px" height="300px"
-  Goofy ->  MickeyMouse: calls
-  Goofy <-- MickeyMouse: responds
-```
 
-```plantuml
-  Goofy ->  MickeyMouse: calls
-  Goofy <-- MickeyMouse: responds
-```
+__Pierluigi:__
+Following the "activity diagrams approach":
 
-```plantuml
-@startuml
-(*)  --~> "check input"
-If "input is verbose" then
---~> [Yes] "turn on verbosity"
---~> "run command"
-else
---~> "run command"
-Endif
---~>(*)
-@enduml
-```
--->
+ - Methods/activities have 3 states: _starting_, _running_, and _terminated_.
+ - _Action tokens_ are placed over _start_, _end_, or _action_ nodes, defining the state.
+ - A step/action is when the action token moves.
+ - No need to include availabilty of artefacts in the state (at least is what I inferred).
 
-<!-- https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggTFJcblxuICBzdWJncmFwaCBUT1BcblxuICAgIEluaXQgLS0-IFcxKFtXb3JrMV0pXG4gICAgVzEgLS0-IFcyKFtXb3JrMl0pXG4gICAgVzEgLS4tPiBUMVsgXTo6OnRyXG4gICAgVDEgLS4tPiBXMlxuICAgIFcyIC0tPiBtb3Jle21vcmU_fTo6Omd3XG4gICAgbW9yZSAtLXllcy0tPiBXMVxuICAgIG1vcmUgLS1uby0tPiBTdG9wXG5cblxuICAgIEluaXQoKCApKTo6OmluO1xuICAgIFN0b3AoKCApKTo6OnN0O1xuICBlbmRcbiAgVDEgLS4tPiBvdXRcblxuXG5cbmNsYXNzRGVmIGluIGZpbGw6IzJmMixzdHJva2U6I2NjYztcbmNsYXNzRGVmIHN0IGZpbGw6IzAwMCxzdHJva2U6I2YyMixzdHJva2Utd2lkdGg6NHB4O1xuY2xhc3NEZWYgdHIgZmlsbDojODg4LHN0cm9rZS13aWR0aDowcHQ7XG5jbGFzc0RlZiBndyBmaWxsOiM4Zjgsc3Ryb2tlLXdpZHRoOjFwdCxzdHJva2U6IzAwMDtcbiIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOnRydWUsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjp0cnVlfQ
-
-So? -->
