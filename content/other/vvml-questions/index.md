@@ -238,7 +238,7 @@ __Conclusions:__
 (5) annd (6) are not supported yet but ok; (5) is equivalent to have 2 start nodes, one for each activity.
 (7) is a bit strange but ok (would be better with a `gateway` instead of `fork`.)
 (8) is not supported yet, but ok (and equivalent to (2)).
-(9) is not valid, since all activities must have an incoming (sequence) arrow (__Suggestion:__ syntactic sugar - no incoming arrow is interpreted as an arrow from the start node).
+(9) is not valid, since all activities must have an incoming (sequence) arrow (Even stronger: all activities should be reachable from a starting node, and all activities should be able to reach the (single) end node).
 
 __Pierluigi:__
 Some contradicting opinions:
