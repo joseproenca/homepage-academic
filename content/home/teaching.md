@@ -26,6 +26,10 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
+<p></p>In co-responsible for the MSc course units:<p></p>
+
+  * RAMDE - _Requirement and Model Driven Engineering_ ([2021/22](https://cister-labs.github.io/ramde2122/))
+
 <p></p>In charge of lab classes of the course units:<p></p>
 
   * PPROG - _Object Oriented Paradigm_ ([2020/21](https://www.isep.ipp.pt/Course/Course/26))
