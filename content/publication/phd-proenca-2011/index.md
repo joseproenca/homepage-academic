@@ -10,7 +10,7 @@ tags: []
 categories: []
 date: '2011-05-01'
 lastmod: 2022-01-24T09:37:33Z
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -49,5 +49,4 @@ abstract: <p>Coordination is a relatively recent field, considerably inspired by
   in distributed environments. Our work concentrates on the Reo coordination model
   [8] as the main representative of this class of coordination models.</p>
 publication: ''
-url_pdf: https://lirias.kuleuven.be/handle/123456789/316137
 ---
