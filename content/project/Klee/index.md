@@ -1,5 +1,5 @@
 ---
-title: Klee (07/2018-now)
+title: Klee (07/2018-2021)
 summary:  __Coalgebraic Modeling and Analysis for Computational Synthetic Biology__ - is an FCT project that aims at the design of biological systems in a systematic way, using the theory of coalgebras.
 
 featured: true
