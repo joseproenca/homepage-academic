@@ -25,7 +25,7 @@ links:
     - name: Cover
       url: https://scholarlypublications.universiteitleiden.nl/access/item%3A2960679/view
     - name: Propositions
-      url: https://scholarlypublications.universiteitleiden.nl/access/item%3A2960681/view
+      url: files/thesis-propositions.pdf
     - name: Acknowledgments
       url: files/thesis-acknowledgments.pdf
 
