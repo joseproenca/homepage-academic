@@ -22,7 +22,7 @@ image:
   preview_only: false
 
 links:
-    - name: cover
+    - name: Cover
       url: https://scholarlypublications.universiteitleiden.nl/access/item%3A2960679/view
     - name: Propositions
       url: https://scholarlypublications.universiteitleiden.nl/access/item%3A2960681/view
