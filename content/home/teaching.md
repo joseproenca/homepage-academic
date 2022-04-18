@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   description = """
 <p></p>In co-responsible for the MSc course units:<p></p>
 
+  * FVOCA - _Formal Verification of Critical Applications_ ([2021/22](https://cister-labs.github.io/fvoca2122/))
   * RAMDE - _Requirement and Model Driven Engineering_ ([2021/22](https://cister-labs.github.io/ramde2122/))
 
 <p></p>In charge of lab classes of the course units:<p></p>
