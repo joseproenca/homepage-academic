@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [DaVinci,Reassure,VALU3S,Klee]
+projects: [DaVinci,Reassure,VALU3S]
 publishDate: '2022-05-23T08:36:34.897337Z'
 publication_types:
 - '1'
@@ -41,5 +41,5 @@ doi: 10.4230/LIPIcs.ECOOP.2022.27
 
 links:
     - name: Pompset tool
-      url: https://arcatools.org/pompset
+      url: http://arca.di.uminho.pt/pompset
 ---
