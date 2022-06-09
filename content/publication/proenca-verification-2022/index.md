@@ -44,6 +44,8 @@ doi: 10.1007/978-3-031-05814-1_6
 links:
     - name: RSSRail'22
       url: https://rssrail2022.univ-gustave-eiffel.fr/
+    - name: Slides
+      url: slides/uppex-rssrail22.pdf
     - name: Uppex tool
       url: https://cister-labs.github.io/uppex/
 ---
