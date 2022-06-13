@@ -13,7 +13,7 @@ tags: [DaVinci,Reassure,VALU3S]
 categories: []
 date: '2022-06-17'
 lastmod: 2022-06-13T21:14:27+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -36,4 +36,7 @@ publication_types:
 abstract: ''
 publication: '*Proceedings 15th Interaction and Concurrency Experience, ICE 2022,
   Lucca, Italy, 17th June 2022*'
+links:
+    - name: B-Pomset tool
+      url: https://arca.di.uminho.pt/b-pomset
 ---
