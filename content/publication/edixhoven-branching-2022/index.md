@@ -9,7 +9,7 @@ authors:
 - Sung-Shik Jongmans
 - José Proença
 - Guillermina Cledou
-tags: [DaVinci,Reassure,VALU3S]
+tags: [DaVinci,Ibex,Reassure,VALU3S]
 categories: []
 date: '2022-06-17'
 lastmod: 2022-06-13T21:14:27+01:00
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [DaVinci,Reassure,VALU3S]
+projects: [DaVinci,Ibex,Reassure,VALU3S]
 publishDate: '2022-06-13T20:14:27.463518Z'
 publication_types:
 - '1'
@@ -39,4 +39,6 @@ publication: '*Proceedings 15th Interaction and Concurrency Experience, ICE 2022
 links:
     - name: B-Pomset tool
       url: https://arca.di.uminho.pt/b-pomset
+    - name: ICE 2022
+      url: https://www.discotec.org/2022/ice.html
 ---
