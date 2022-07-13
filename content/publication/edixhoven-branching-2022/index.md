@@ -37,6 +37,8 @@ abstract: ''
 publication: '*Proceedings 15th Interaction and Concurrency Experience, ICE 2022,
   Lucca, Italy, 17th June 2022*'
 links:
+    - name: Slides (by Luc)
+      url: slides/ice22.pdf
     - name: B-Pomset tool
       url: https://arca.di.uminho.pt/b-pomset
     - name: ICE 2022
