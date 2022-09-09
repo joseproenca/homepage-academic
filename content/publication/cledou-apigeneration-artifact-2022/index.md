@@ -10,7 +10,7 @@ authors:
 - Luc Edixhoven
 - Sung-Shik Jongmans
 - José Proença
-tags: [Reassure,VALU3S,MPST,Choreographies]
+tags: [Reassure,VALU3S,DaVinci,MPST,Choreographies]
 categories: []
 date: '2022-06-23'
 lastmod: 2022-09-09T12:08:25+01:00
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Reassure,VALU3S]
+projects: [Reassure,VALU3S,DaVinci]
 publishDate: '2022-09-09T11:08:25.638732Z'
 publication_types:
 - '2'
