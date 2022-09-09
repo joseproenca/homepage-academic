@@ -40,7 +40,7 @@ links:
     - name: Slides (by Luc)
       url: slides/ice22.pdf
     - name: B-Pomset tool
-      url: https://arca.di.uminho.pt/b-pomset
+      url: https://lmf.di.uminho.pt/b-pomset
     - name: ICE 2022
       url: https://www.discotec.org/2022/ice.html
 ---

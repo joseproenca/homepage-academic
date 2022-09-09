@@ -9,7 +9,7 @@ authors:
 - Luc Edixhoven
 - Sung-Shik Jongmans
 - José Proença
-tags: [Reassure,VALU3S]
+tags: [Reassure,VALU3S,MPST,Choreographies]
 categories: []
 date: '2022-06-23'
 lastmod: 2022-09-09T12:06:41+01:00
@@ -35,6 +35,8 @@ publication_types:
 - '1'
 abstract: ''
 links:
+    - name: Pompset tool
+      url: https://lmf.di.uminho.pt/pompset
     - name: Artifact
       url: https://drops.dagstuhl.de/opus/volltexte/2022/16217/
 publication: '*36th European Conference on Object-Oriented Programming, ECOOP 2022,

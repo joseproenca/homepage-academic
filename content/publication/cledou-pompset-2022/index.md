@@ -41,5 +41,5 @@ doi: 10.4230/LIPIcs.ECOOP.2022.27
 
 links:
     - name: Pompset tool
-      url: https://arca.di.uminho.pt/pompset
+      url: https://lmf.di.uminho.pt/pompset
 ---

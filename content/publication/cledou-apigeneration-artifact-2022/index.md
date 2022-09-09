@@ -10,7 +10,7 @@ authors:
 - Luc Edixhoven
 - Sung-Shik Jongmans
 - José Proença
-tags: [Reassure,VALU3S]
+tags: [Reassure,VALU3S,MPST,Choreographies]
 categories: []
 date: '2022-06-23'
 lastmod: 2022-09-09T12:08:25+01:00
@@ -35,6 +35,9 @@ publishDate: '2022-09-09T11:08:25.638732Z'
 publication_types:
 - '2'
 abstract: ''
+links:
+    - name: Pompset tool
+      url: https://lmf.di.uminho.pt/pompset
 publication: '*Dagstuhl Artifacts Ser.*'
 url_pdf: https://doi.org/10.4230/DARTS.8.2.19
 doi: 10.4230/DARTS.8.2.19

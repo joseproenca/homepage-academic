@@ -46,7 +46,7 @@ publication: '*Coordination Models and Languages - 22nd IFIP WG 6.1 Internationa
   June 15-19, 2020, Proceedings*'
 url_pdf: https://doi.org/10.1007/978-3-030-50029-0_3
 url_code: https://github.com/arcalab/arx
-url_slides: http://arca.di.uminho.pt/content/arx-slides-20.pdf
+url_slides: http://lmf.di.uminho.pt/content/arx-slides-20.pdf
 url_video: https://www.youtube.com/watch?v=74RUzfYneNI&t=2s
 doi: 10.1007/978-3-030-50029-0_3
 ---
