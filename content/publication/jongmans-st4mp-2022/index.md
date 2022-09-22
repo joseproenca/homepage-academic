@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sung-Shik Jongmans
 - José Proença
-tags: [Reassure,VALU3S,Ibex,MPST,Choreographies]
+tags: [VALU3S,Ibex,MPST,Choreographies]
 categories: []
 date: '2022-10-24'
 lastmod: 2022-09-09T12:30:09+01:00
@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Reassure,VALU3S,Ibex]
+projects: [VALU3S,Ibex]
 publishDate: '2022-09-09T11:30:06.450647Z'
 publication_types:
 - '1'
