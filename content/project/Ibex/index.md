@@ -10,7 +10,7 @@ tags:
 date: "2022-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://arca.di.uminho.pt/Ibex
+external_link: https://lmf.di.uminho.pt/Ibex
 
 image:
   caption: Photo by [Arturo de Frias](https://www.arturodefrias.com/)
