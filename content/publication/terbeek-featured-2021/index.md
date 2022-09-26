@@ -34,6 +34,8 @@ publishDate: '2021-07-30T09:03:49.217253Z'
 links:
     - name: arXiv
       url: https://arxiv.org/abs/2108.01784
+    - name: Online tool
+      url: http://arcatools.org/feta
     - name: FM'21
       url: https://lcs.ios.ac.cn/fm2021/
 doi: 10.1007/978-3-030-90870-6_26
