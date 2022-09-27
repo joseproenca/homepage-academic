@@ -18,10 +18,14 @@ organizations:
   url: "https://inesctec.pt"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Renato Neves is a postdoctoral researcher at UCL and INESC TEC. One of his main goals is the development of reasoning tools, syntax, and semantics for hybrid systems, a highly complex class of devices that intertwines different aspects of analysis, control theory, and computer science. Hybrid systems are a main ingredient in the 21st century’s technology, but even so they are still remarkably difficult to design and analyse in a systematic and disciplined way. His collaborators and him have been tackling this challenge by applying and advancing different mathematical frameworks. In particular, monad-based programming, automata theory, coalgebra, modal and dynamic logic, and category theory.
+bio: Renato Neves is a Auxiliar Professor at University of Minho and a researcher at INESC TEC.
+  His main focus are on (quantitative) syntax and semantics of programming languages, typically in the setting of cyber-physical and quantum computing.
+
+# One of his main goals is the development of reasoning tools, syntax, and semantics for hybrid systems, a highly complex class of devices that intertwines different aspects of analysis, control theory, and computer science. Hybrid systems are a main ingredient in the 21st century’s technology, but even so they are still remarkably difficult to design and analyse in a systematic and disciplined way. His collaborators and him have been tackling this challenge by applying and advancing different mathematical frameworks. In particular, monad-based programming, automata theory, coalgebra, modal and dynamic logic, and category theory.
 
 interests:
 - monadic-based programming
+- quantum computing
 - automata theory and coalgebra
 - modal and dynamic logic
 - category theory
