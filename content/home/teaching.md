@@ -63,7 +63,8 @@ Ongoing supervisor of the MSc thesis:
   company_url = "http://di.uminho.pt"
   location = "Braga, Portugal"
   date_start = "2016-02-01"
-  date_end = "2019-02-28"
+  date_end = ""
+  <!-- "2019-02-28" -->
   description = """<p></p>
 
 Prepared and lectured course units on the following topics:
@@ -73,6 +74,7 @@ Prepared and lectured course units on the following topics:
 
 <p></p>In charge of lab classes of the course units:<p></p>
 
+  - _Algorithms and Complexity_ ([2022/23](https://www4.di.uminho.pt/~jno/sitedi/uc_J303N6.html));
   - _Functional Programming_ (2016/17 and 2017/18);
   - _Laboratory of Informatics I_ - functional programming (2016/17, 2017/18, 2018/19);
   - _Laboratory of Informatics II_ - imperative programming (2017/18);
