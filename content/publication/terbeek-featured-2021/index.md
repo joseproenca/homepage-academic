@@ -36,6 +36,8 @@ links:
       url: https://arxiv.org/abs/2108.01784
     - name: Online tool
       url: http://arcatools.org/feta
+    - name: Slides (by Guillermina)
+      url: slides/feta-fm21.pdf
     - name: FM'21
       url: https://lcs.ios.ac.cn/fm2021/
 doi: 10.1007/978-3-030-90870-6_26
