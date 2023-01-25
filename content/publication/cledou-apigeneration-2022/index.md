@@ -3,7 +3,7 @@
 
 title: API Generation for Multiparty Session Types, Revisited and Revised Using Scala 3
 subtitle: ''
-summary: ''
+summary: 'ECOOP 2022'
 authors:
 - Guillermina Cledou
 - Luc Edixhoven

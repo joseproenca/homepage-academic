@@ -3,7 +3,7 @@
 
 title: 'ST4MP: A Blueprint of Multiparty Session Typing for Multilingual Programming'
 subtitle: ''
-summary: ''
+summary: 'ISoLA 2022'
 authors:
 - Sung-Shik Jongmans
 - José Proença

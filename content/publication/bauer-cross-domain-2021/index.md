@@ -4,7 +4,7 @@
 title: Cross-domain Modelling of Verification and Validation Workflows in the Large
   Scale European Research Project VALU3S - Invited Paper
 subtitle: ''
-summary: ''
+summary: 'SAMOS 2021'
 authors:
 - Thomas Bauer
 - Joseba Andoni Agirre
@@ -46,9 +46,9 @@ publication_types:
 abstract: ''
 links:
   - name: SAMOS 2021
-  - url: https://www.samos-conference.com/Previous_Samos_Websites/SAMOS_2021/index.html
+    url: https://www.samos-conference.com/Previous_Samos_Websites/SAMOS_2021/index.html
 publication: '*Embedded Computer Systems: Architectures, Modeling, and Simulation
   - 21st International Conference, SAMOS 2021, Virtual Event, July 4-8, 2021, Proceedings*'
-url_pdf: https://doi.org/10.1007/978-3-031-04580-6_25
+# url_pdf: https://doi.org/10.1007/978-3-031-04580-6_25
 doi: 10.1007/978-3-031-04580-6_25
 ---

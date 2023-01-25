@@ -3,7 +3,7 @@
 
 title: Branching pomsets for choreographies
 subtitle: ''
-summary: ''
+summary: 'ICE@DisCoTec 2022'
 authors:
 - Luc Edixhoven
 - Sung-Shik Jongmans

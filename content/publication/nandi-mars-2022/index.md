@@ -4,7 +4,7 @@
 title: 'MARS: a toolset for the safe and secure deployment of heterogeneous distributed
   systems'
 subtitle: ''
-summary: ''
+summary: 'ERSA@RTSS 2022'
 authors:
 - Giann Nandi
 - David Pereira

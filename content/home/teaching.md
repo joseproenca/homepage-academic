@@ -64,7 +64,6 @@ Ongoing supervisor of the MSc thesis:
   location = "Braga, Portugal"
   date_start = "2016-02-01"
   date_end = ""
-  <!-- "2019-02-28" -->
   description = """<p></p>
 
 Prepared and lectured course units on the following topics:
