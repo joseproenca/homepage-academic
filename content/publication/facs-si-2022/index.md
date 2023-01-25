@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Special Issue of FACS 2017
+title: Special issue on selected papers from the 14th International Conference on
+  Formal Aspects of Component Software (FACS 2017)
 subtitle: ''
 summary: ''
 authors:
@@ -9,13 +10,13 @@ authors:
 - Markus Lumpe
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-10-10T00:22:36+01:00
+date: '2022-01-01'
+lastmod: 2023-01-25T14:21:53Z
 featured: false
 draft: false
 
 # Featured image
-# To use add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
@@ -28,14 +29,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-09T23:22:36.733131Z'
+publishDate: '2023-01-25T14:21:53.064458Z'
 publication_types:
-- '5'
+- '2'
 abstract: ''
-links:
-    - name: SCP
-      url: https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10166TH86XL
-publication: 'Science of Computer Programming, Elsevier, Volumes 175, 178, 179, 183, 185, 191, 196'
-# url_pdf: https://lmcs.episciences.org/volume/view/id/293
-# doi: 10.4204/...
+publication: '*Science of Computer Programming, Elsevier*'
+url_pdf: https://doi.org/10.1016/j.scico.2022.102803
+doi: 10.1016/j.scico.2022.102803
+
+# publication: 'Science of Computer Programming, Elsevier, Volumes 175, 178, 179, 183, 185, 191, 196'
+
 ---
+
