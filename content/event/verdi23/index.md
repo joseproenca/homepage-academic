@@ -1,5 +1,5 @@
 ---
-title: VERDI 2023
+title: VERDI @ DSN 2023
 summary: __PC chair__ -  International Workshop on Verification & Validation of Dependable Cyber-Physical Systems
 # authors:
 # - joseproenca
@@ -27,6 +27,8 @@ projects: []
 # Optional external URL for project (replaces project detail page).
 external_link: https://verdi-workshop.github.io/2023/
 ---
+
+## 1st International Workshop on Verification & Validation of Dependable Cyber-Physical Systems
 
 The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. This workshop covers all aspects related to the dependability evaluation (with special focus on __safety__ and __security__) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing.
 
