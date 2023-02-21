@@ -43,4 +43,5 @@ links:
       url: https://lmf.di.uminho.pt/b-pomset
     - name: ICE 2022
       url: https://www.discotec.org/2022/ice.html
+url_code: https://github.com/arcalab/choreo/tree/b-pomset
 ---

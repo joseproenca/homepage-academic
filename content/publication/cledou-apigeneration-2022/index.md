@@ -41,6 +41,7 @@ links:
       url: https://drops.dagstuhl.de/opus/volltexte/2022/16217/
     - name: ECOOP 2022
       url: https://2022.ecoop.org
+url_code: https://github.com/arcalab/choreo/tree/api
 publication: '*36th European Conference on Object-Oriented Programming, ECOOP 2022,
   June 6-10, 2022, Berlin, Germany*'
 url_pdf: https://doi.org/10.4230/LIPIcs.ECOOP.2022.27
