@@ -38,6 +38,8 @@ links:
       url: https://doi.org/10.5281/zenodo.7418074
     - name: Online tool
       url: http://arcatools.org/feta
+    - name: Slides
+      url: slides/dlogic-fm23.pdf
     - name: FM'23
       url: https://fm2023.isp.uni-luebeck.de
 abstract: 'Team automata describe networks of automata with input and output actions, extended with synchronisation policies guiding how many interacting components can synchronise on a shared input/output action. Given such a team automaton, we can reason over communication properties such as receptiveness (sent messages must be received) and responsiveness (pending receives must be satisfied). Previous work focused on how to identify these communication properties. However, automatically verifying these properties is non-trivial, as it may involve traversing networks of interacting automata with large state spaces. This paper investigates (1) how to characterise communication properties for team automata (and subsumed models) using test-free propositional dynamic logic, and (2) how to use this characterisation to verify communication properties by model checking. A prototype tool supports the theory, using a transformation to interact with the mCRL2 tool for model checking.'
