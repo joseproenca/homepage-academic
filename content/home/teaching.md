@@ -68,6 +68,8 @@ Ongoing supervisor of the MSc thesis:
 
 Prepared and lectured course units on the following topics:
 
+* _Cyber Physical Computation_, MSc level ([2022/23](https://lmf.di.uminho.pt/CyPhyComp2223/))
+* _Cyber Physical Programming_, MSc level ([2022/23](https://haslab.github.io/MFP/PCF/2223/))
 * _Software Architecture and Design Calculi_, MSc level ([2016](http://ac1516.proenca.org), [2017](http://ac1617.proenca.org), [2018](http://arca.di.uminho.pt/ac-1718))
 * _Mathematics for Computer Science_, requalification of software scientists ([2017](http://mi1718.proenca.org)).
 
