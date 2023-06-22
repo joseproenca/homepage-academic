@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 Invited lecturer in the following course units:
 <p></p>
 
-  * AC - _Software Architecture and Design Calculi_, [UM](https://di.uminho.pt), MSc level ([2019/20](https://arca.di.uminho.pt/ac-1920/), [2020/21](https://arca.di.uminho.pt/ac-2021/))
+  * AC - _Software Architecture and Design Calculi_, [UM](https://di.uminho.pt), MSc level ([2019/20](https://lmf.di.uminho.pt/ac-1920/), [2020/21](https://lmf.di.uminho.pt/ac-2021/))
   * CPC - _Cyber-Physical Computation_, [UM](https://di.uminho.pt), for PhD students of [MAPi](http://mapi.map.edu.pt/) (2019/20)
 
 <p></p>
@@ -70,7 +70,7 @@ Prepared and lectured course units on the following topics:
 
 * _Cyber Physical Computation_, MSc level ([2022/23](https://lmf.di.uminho.pt/CyPhyComp2223/))
 * _Cyber Physical Programming_, MSc level ([2022/23](https://haslab.github.io/MFP/PCF/2223/))
-* _Software Architecture and Design Calculi_, MSc level ([2016](http://ac1516.proenca.org), [2017](http://ac1617.proenca.org), [2018](http://arca.di.uminho.pt/ac-1718))
+* _Software Architecture and Design Calculi_, MSc level ([2016](http://ac1516.proenca.org), [2017](http://ac1617.proenca.org), [2018](http://lmf.di.uminho.pt/ac-1718))
 * _Mathematics for Computer Science_, requalification of software scientists ([2017](http://mi1718.proenca.org)).
 
 <p></p>In charge of lab classes of the course units:<p></p>
