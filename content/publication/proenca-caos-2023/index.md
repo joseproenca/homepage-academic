@@ -47,6 +47,8 @@ links:
       url: https://www.discotec.org/2023/coordination
     - name: CAOS tool
       url: https://github.com/arcalab/caos
+    - name: Slides
+      url: slides/caos-coord23.pdf
     - name: Demo-video
       url: https://youtu.be/Xcfn3zqpubw
     - name: Tutorial
