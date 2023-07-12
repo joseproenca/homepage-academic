@@ -53,6 +53,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/simpple
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.world/@jproenca
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/josepproenca/
@@ -92,7 +95,9 @@ user_groups:
 
 I am currently an Assistant Researcher at [CISTER](https://cister-labs.pt), [ISEP](https://isep.ipp.pt), and an external collaborator of [INESC TEC](https://inesctec.pt), Portugal, working on formal models for component-based systems. Until January 2019 I worked in [HASLab](https://haslab.pt), [INESC TEC](https://inesctec.pt) & [University of Minho](http://di.uminho.pt), mainly with [Luís Barbosa](http://di.uminho.pt/~lsb), and was affiliated with [Distrinet](http://distrinet.cs.kuleuven.be/), [KU Leuven](http://www.kuleuven.be/), until January 2016, working mainly with [Danny Hughes](https://distrinet.cs.kuleuven.be/people/dannyh) and [Dave Clarke](http://supercooldave.github.io). My work has been mainly on coordination of distributed components, often associated to the [Reo](http://reo.project.cwi.nl/) coordination language, and on formal approaches to software product line engineering. More recently I have been working on component models for embedded devices in the context of the [LooCI](https://distrinet.cs.kuleuven.be/software/looci) middleware and micro PnP (now part of [VersaSense](https://www.versasense.com/)), and in the context of the [VirtuosoNext RTOS](http://www.altreonic.com/content/product-overview).
 
-Before I graduated in University of Minho, Portugal, for a 5 year degree in Mathematics and Computer Science. I studied abroad for 6 months as an Erasmus student in Bristol University, UK. I defended my PhD in [Leiden University](http://liacs.leidenuniv.nl/) in May 2011, for my work carried in [CWI](http://www.cwi.nl/), Amsterdam, in the group for [Foundations of Software Engineering](http://www.cwi.nl/research-groups/Foundations-of-software-engineering).
+Before I graduated in University of Minho, Portugal, for a 5 year degree in Mathematics and Computer Science. I studied abroad for 6 months as an Erasmus student in Bristol University, UK. I defended my PhD in [Leiden University](http://liacs.leidenuniv.nl/) in May 2011, for my work carried in [CWI](http://www.cwi.nl/), Amsterdam, in the group for [Foundations of Software Engineering](http://www.cwi.nl/research-groups/Foundations-of-software-engineering)<a rel="me" href="https://mastodon.world/@jproenca">.</a>
+
+<!-- <a rel="me" href="https://mastodon.world/@jproenca">Mastodon</a> -->
 
 <ul style="display: inline-flex; text-align: center; padding-left: 0px; padding-top: 1rem;">
 <li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="images/logo_cister.png" alt="CISTER logo" style="width:16rem;display:inline;"></a></li>

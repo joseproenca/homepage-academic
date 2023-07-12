@@ -36,7 +36,9 @@ abstract: ''
 links:
     - name: Extended
       url: https://arxiv.org/abs/2009.14322
-url_slides: slides/ictac20.pdf
+    - name: 'Slides (by Renato)'
+      url: slides/ictac20.pdf
+# url_slides: slides/ictac20.pdf
 url_code: https://github.com/arcalab/lince
 doi: 10.1007/978-3-030-64276-1_14
 publication: '*Theoretical Aspects of Computing - ICTAC 2020 - 17th International

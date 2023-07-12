@@ -39,6 +39,8 @@ publication: '*Proceedings 15th Interaction and Concurrency Experience, ICE 2022
 links:
     - name: Slides (by Luc)
       url: slides/ice22.pdf
+    - name: Slides (@ICE'23 by Luc)
+      url: slides/ice23.pdf
     - name: B-Pomset tool
       url: https://lmf.di.uminho.pt/b-pomset
     - name: ICE 2022
