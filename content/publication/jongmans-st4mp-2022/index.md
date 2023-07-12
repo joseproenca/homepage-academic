@@ -11,7 +11,7 @@ tags: [VALU3S,Ibex,MPST,Choreographies]
 categories: []
 date: '2022-10-24'
 lastmod: 2022-09-09T12:30:09+01:00
-featured: yes
+featured: no
 draft: false
 
 # Featured image
