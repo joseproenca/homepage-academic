@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Branching pomsets for choreographies
+title: 'Branching pomsets: design, expressiveness and applications to choreographies'
 subtitle: ''
-summary: 'ICE@DisCoTec 2022'
+summary: 'JLAMP 2023'
 authors:
 - Luc Edixhoven
 - Sung-Shik Jongmans
