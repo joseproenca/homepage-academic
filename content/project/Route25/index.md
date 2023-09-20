@@ -27,7 +27,7 @@ As such, Route 25 will seek to answer some important questions: How can Portugal
 
 ---
 
-
+ - __More info: [by VORTEX](https://www.vortex-colab.com/projects/route-25/), [by IT](https://www.it.pt/Projects/Index/4824) 
  - __Funding:__ IAPMEI (PPR, Portuguese Republic, European Union/NextGenerationEU)
  - __Approval Date:__ 26-07-2022 
  - __Start Date:__ 01-10-2022 

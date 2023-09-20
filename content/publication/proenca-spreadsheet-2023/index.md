@@ -14,7 +14,7 @@ tags: [Ibex,VALU3S,Route25]
 categories: []
 date: '2023-01-01'
 lastmod: 2023-09-18T15:44:37+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -37,4 +37,11 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the First Workshop on Trends in Configurable Systems
   Analysis, TiCSA, 2023, Paris, France, co-located with ETAPS 2023*'
+links:
+    - name: TiCSA@ETAPS'23
+      url: https://ticsa.edgecloud.de
+    - name: Slides
+      url: slides/uppex-ticsa23.pdf
+    - name: Uppex tool
+      url: https://cister-labs.github.io/uppex/
 ---
