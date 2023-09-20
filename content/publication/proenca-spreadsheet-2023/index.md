@@ -3,7 +3,7 @@
 
 title: Spreadsheet-based Configuration of Families of Real-Time Specifications
 subtitle: ''
-summary: ''
+summary: 'TiCSA@ETAPS 2023'
 authors:
 - José Proença
 - Sina Borrami
