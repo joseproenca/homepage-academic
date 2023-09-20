@@ -12,8 +12,8 @@ date: "2023-07-31T00:00:00Z"
 # external_link: https://www.vortex-colab.com/projects/route-25/
 
 image:
-  caption: Car interior
   focal_point: Smart
+#  caption: Car interior
 ---
 
 
@@ -27,7 +27,7 @@ As such, Route 25 will seek to answer some important questions: How can Portugal
 
 ---
 
- - __More info: [by VORTEX](https://www.vortex-colab.com/projects/route-25/), [by IT](https://www.it.pt/Projects/Index/4824) 
+ - __More info:__ [@VORTEX](https://www.vortex-colab.com/projects/route-25/), [@IT](https://www.it.pt/Projects/Index/4824) 
  - __Funding:__ IAPMEI (PPR, Portuguese Republic, European Union/NextGenerationEU)
  - __Approval Date:__ 26-07-2022 
  - __Start Date:__ 01-10-2022 
