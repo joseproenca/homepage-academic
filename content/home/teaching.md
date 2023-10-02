@@ -19,14 +19,32 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Assistant Professor"
+  company = "University of Porto"
+  company_url = "http://fc.up.pt"
+  location = "Porto, Portugal"
+  date_start = "2023-09-20"
+  date_end = ""
+  description = """
+<p></p>Responsible for the MSc course unit:<p></p>
+
+  * Algorithms ([2023/24](https://cister-labs.github.io/alg2324/))
+
+<p></p>In charge of lab classes of the course units:<p></p>
+
+  * ED - _Discrete Structures_ ([2023/24](https://www.dcc.fc.up.pt/~rvr/aulas/AC2324/ED2324/))
+  """
+
+
+[[experience]]
   title = "Invited Assistant Professor"
   company = "ISEP"
   company_url = "http://isep.ipp.pt"
   location = "Porto, Portugal"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2023-09-01"
   description = """
-<p></p>In co-responsible for the MSc course units:<p></p>
+<p></p>Co-responsible for the MSc course units:<p></p>
 
   * FVOCA - _Formal Verification of Critical Applications_ ([2021/22](https://cister-labs.github.io/fvoca2122/))
   * RAMDE - _Requirement and Model Driven Engineering_ ([2021/22](https://cister-labs.github.io/ramde2122/))
@@ -63,7 +81,7 @@ Ongoing supervisor of the MSc thesis:
   company_url = "http://di.uminho.pt"
   location = "Braga, Portugal"
   date_start = "2016-02-01"
-  date_end = ""
+  date_end = "2023-09-01"
   description = """<p></p>
 
 Prepared and lectured course units on the following topics:
