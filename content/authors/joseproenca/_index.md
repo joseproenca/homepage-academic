@@ -100,7 +100,7 @@ Before I graduated in University of Minho, Portugal, for a 5 year degree in Math
 <!-- <a rel="me" href="https://mastodon.world/@jproenca">Mastodon</a> -->
 
 <ul style="display: inline-flex; text-align: center; padding-left: 0px; padding-top: 1rem;">
-<li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="https://fc.up.pt" target="_blank"><img src="images/logo_fcup.png" alt="FCUP logo" style="width:18rem;display:inline;"></a></li>
+<li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="https://fc.up.pt" target="_blank"><img src="images/logo_fcup.png" alt="FCUP logo" style="width:12rem;display:inline;"></a></li>
 <li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="images/logo_cister.png" alt="CISTER logo" style="width:16rem;display:inline;"></a></li>
 <li style="display: inline-block; margin: auto; margin-left: 10px; margin-right: 10px"><a href="http://arca.di.uminho.pt" target="_blank"><img src="images/logo_arca.png" alt="ARCA logo" style="width:4rem;display:inline;"></a></li>
 </ul>

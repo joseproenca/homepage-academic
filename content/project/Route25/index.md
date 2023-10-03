@@ -38,3 +38,6 @@ As such, Route 25 will seek to answer some important questions: How can Portugal
  - __Investment:__ _Agendas/Alianças mobilizadoras para a Reindustrialização_
  - __Operation code:__ 02-C05-i01.01-2022.PC645463824-00000063
  - __SDG:__ 9 - Industry, Innovation and Infrastructure
+ 
+
+_This is a result of the work developed under project Route 25 (ref. TRB/2022/00061 -- C645463824-00000063) funded by NextGenerationEU, within the Recovery and Resilience Plan (RRP)._
