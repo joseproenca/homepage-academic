@@ -10,8 +10,8 @@ authors:
 - J. Proença
 tags: [VALU3S,Route25,Ibex]
 categories: []
-date: '2023-01-01'
-lastmod: 2023-10-04T10:45:00+01:00
+date: '2023-12-04'
+lastmod: 2023-10-06T10:45:00+01:00
 featured: true
 draft: false
 
