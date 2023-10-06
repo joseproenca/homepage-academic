@@ -3,7 +3,7 @@
 
 title: Realisability of Global Models of Interaction
 subtitle: ''
-summary: ''
+summary: 'ICTAC 2023'
 authors:
 - M. H. ter Beek
 - R. Hennicker
