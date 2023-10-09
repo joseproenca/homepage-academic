@@ -40,6 +40,9 @@ abstract: Hybrid programs combine classical program constructs with differential
   behaviour, however, yields aspects unusual to computer science and renders the formal
   design of hybrid programs a difficult task, not properly handled by the current
   programming theory and practices.
+links:
+    - name: 'Lince' 
+      url: http://arcatools.org/lince
 publication: ''
 url_pdf: https://zenodo.org/record/3818020
 doi: 10.5281/zenodo.3518839

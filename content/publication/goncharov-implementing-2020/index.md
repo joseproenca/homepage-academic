@@ -40,6 +40,8 @@ url_code: https://github.com/arcalab/lince
 links:
     - name: ArXiv
       url: https://arxiv.org/abs/2009.14322
+    - name: 'Lince' 
+      url: http://arcatools.org/lince
     # - url: https://github.com/arcalab/lince
     #   icon_pack: fab
     #   icon: github
