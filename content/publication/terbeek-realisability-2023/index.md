@@ -29,8 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 links:
+    - name: Extended version
+      url: https://doi.org/10.5281/zenodo.8377188
     - name: Online tool
-      url: http://arcatools.org/feta
+      url: https://lmf.di.uminho.pt/ceta
     - name: ICTAC'23
       url: https://ictac2023.compsust.utec.edu.pe
 projects: [VALU3S,Route25,Ibex]
@@ -40,3 +42,7 @@ publication_types:
 abstract: ''
 publication: '*ICTAC - 20th International Colloquium on Theoretical Aspects of Computing, Lima, Peru, December 4-8, 2023, Proceedings*'
 ---
+
+## Abstract
+
+We consider global models of communicating agents specified as transition systems labelled by interactions in which multiple senders and receivers can participate. A realisation of such a model is a set of local transition systems—one per agent—which are executed concurrently using synchronous communication. Our core challenge is how to check whether a global model is realisable and, if it is, how to synthesise a realisation. We identify and compare two variants to realise global interaction models, both relying on bisimulation equivalence. Then we investigate, for both variants, realisability conditions to be checked on global models. We propose a synthesis method for the construction of realisations by grouping locally indistinguishable states. The paper is accompanied by a tool that implements realisability checks and synthesises realisations.
