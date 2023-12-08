@@ -35,6 +35,8 @@ links:
       url: https://lmf.di.uminho.pt/ceta
     - name: ICTAC'23
       url: https://ictac2023.compsust.utec.edu.pe
+    - name: Slides
+      url: slides/ictac23.pdf
 projects: [VALU3S,Route25,Ibex]
 publishDate: '2023-10-04T09:44:59.922602Z'
 publication_types:
