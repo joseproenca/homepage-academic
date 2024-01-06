@@ -24,10 +24,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Ibex]
+projects: [Ibex,VALU3S]
 ---
 
-You can find [here](slides/vvml-summerschool23.pdf) the slides for a lecture that I gave in the [VALU3S](https://valu3s.eu)' Summer School on Verification and Validation of Dependable Cyber-Physical Systems, held in Genova, Italy on 18th-20th July 2023 - https://valu3s.eu/summer-school-2023/.
+You can find [here the slides](slides/vvml-summerschool23.pdf) for a lecture that I gave in the [VALU3S](https://valu3s.eu)' Summer School on Verification and Validation of Dependable Cyber-Physical Systems, held in Genova, Italy on 18th-20th July 2023 - https://valu3s.eu/summer-school-2023/.
 
 VVML (Verification & Validation Modelling Language) is a modelling language based on UML's activity diagrams optimised to describe processes where formal methods are applied in concrete systems. This lecture describes an approach to formalise and to reason formally over correctness of workflows described using in VVML. The (informal) guidelines on how to build VVML workflows can be found online:
 
