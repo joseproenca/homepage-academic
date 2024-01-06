@@ -11,6 +11,11 @@ date: "2023-07-18T00:00:00Z"
 featured: true
 draft: false
 
+links:
+    - name: Slides
+      url: vvml-summerschool23.pdf
+    - name: VVML animator tool
+      url: https://cister-labs.github.io/coreVVML
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -27,7 +32,7 @@ image:
 projects: [Ibex,VALU3S]
 ---
 
-You can find [here the slides](slides/vvml-summerschool23.pdf) for a lecture that I gave in the [VALU3S](https://valu3s.eu)' Summer School on Verification and Validation of Dependable Cyber-Physical Systems, held in Genova, Italy on 18th-20th July 2023 - https://valu3s.eu/summer-school-2023/.
+You can find [here the slides](vvml-summerschool23.pdf) for a lecture that I gave in the [VALU3S](https://valu3s.eu)' Summer School on Verification and Validation of Dependable Cyber-Physical Systems, held in Genova, Italy on 18th-20th July 2023 - https://valu3s.eu/summer-school-2023/.
 
 VVML (Verification & Validation Modelling Language) is a modelling language based on UML's activity diagrams optimised to describe processes where formal methods are applied in concrete systems. This lecture describes an approach to formalise and to reason formally over correctness of workflows described using in VVML. The (informal) guidelines on how to build VVML workflows can be found online:
 
