@@ -34,6 +34,19 @@ date_format = "Jan 2006"
 
   * ED - _Discrete Structures_ ([2023/24](https://www.dcc.fc.up.pt/~rvr/aulas/AC2324/ED2324/))
 
+<p></p>
+Ongoing supervisor of the PhD thesis:
+<p></p>
+
+  * [Reydel Arrieta Olano](https://cister-labs.pt/people/reydel_olano/), _Quantified Verification and Validation of Real-Time Programs_ (since 2023)
+
+<p></p>
+OnSgoing supervisor of the MSc thesis:
+<p></p>
+
+  * [Telmo Ribeiro](), _API Generation of Multiparty Session Types_ (since 2023)
+  * [Pedro Daniel Mendes](), _Visualisation of simulations of hybrid systems_ ([UM](https://di.uminho.pt), since 2023)
+  * [Alexandre Silva](), _Analysis of families of Real Time systems with IMITATOR_ ([UM](https://di.uminho.pt), since 2023)
   """
 
 
@@ -67,7 +80,6 @@ Invited lecturer in the following course units:
 Ongoing supervisor of the PhD thesis:
 <p></p>
 
-  * [Reydel Arrieta Olano](https://cister-labs.pt/people/reydel_olano/), _Quantified Verification and Validation of Real-Time Programs_ (since 2023)
   * [Giann Nandi](http://www.cister.isep.ipp.pt/people/giann_nandi/), _A Novel Framework for Certified Runtime Verification of Safety-Critical Cyber-Physical Systems_ (since 2019)
 
 <!-- <p></p>
