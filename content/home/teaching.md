@@ -33,6 +33,7 @@ date_format = "Jan 2006"
 <p></p>In charge of lab classes of the course units:<p></p>
 
   * ED - _Discrete Structures_ ([2023/24](https://www.dcc.fc.up.pt/~rvr/aulas/AC2324/ED2324/))
+
   """
 
 
@@ -66,13 +67,15 @@ Invited lecturer in the following course units:
 Ongoing supervisor of the PhD thesis:
 <p></p>
 
+  * [Reydel Arrieta Olano](https://cister-labs.pt/people/reydel_olano/), _Quantified Verification and Validation of Real-Time Programs_ (since 2023)
   * [Giann Nandi](http://www.cister.isep.ipp.pt/people/giann_nandi/), _A Novel Framework for Certified Runtime Verification of Safety-Critical Cyber-Physical Systems_ (since 2019)
 
-<p></p>
+<!-- <p></p>
 Ongoing supervisor of the MSc thesis:
 <p></p>
 
   * José Matias, _A DSL for a Cloud infrastructure_ (since 2020)
+ -->
   """
 
 [[experience]]
@@ -109,6 +112,7 @@ Involved in the supervision of the work carried in the PhD thesis:
 Supervisor of the MSc thesis:
 <p></p>
 
+  * [Ricardo da Silva Correia](https://pt.linkedin.com/in/ricardo-correia-80300b212), [_Simulation of Hybrid Systems Regulated by Newtonian Mechanics_](https://github.com/ricardocorreia99/Simulation-of-Hybrid-Systems-Regulated-by-Newtonian-Mechanics/blob/main/Dissertation.pdf) (defended in Dec 2023)
   * [Rúben Cruz](https://www.linkedin.com/in/rubenamcruz/), [_A Web-based analysis of families of Reo connectors_](http://davinci.di.uminho.pt/publications/ruben-thesis.pdf) (defended in 2018)
 
   """
