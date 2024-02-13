@@ -10,13 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Researcher
+role: Assistant Professor
 # <br><a href="https://www.cister.isep.ipp.pt" target="_blank"><img src="https://jose.proenca.org/images/logo_cister.png" alt="CISTER logo" style="width:18rem;display:inline;padding-top:1.3rem;"></a>
 
 # Organizations/Affiliations
 organizations:
+- name: DCC-FCUP, University of Porto
+  url: "https://sigarra.up.pt/fcup/pt/func_geral.formview?p_codigo=705891"
 - name: CISTER Research Centre
-  url: "https://cister-labs.pt"
+  url: "https://cister-labs.pt/people/jose_proenca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: José Proença is an Assistant Professor at _Faculty of Science of the University of Porto_, and a researcher at the _Research Center in Real-Time & Embedded Computing Systems, ISEP_, in Portugal. His core research targets coordination aspects and formal methods in the context of Cyber-Physical Systems. He is actively involved in a NextGenerationEU project and in 1 FCT project. He currently belongs to the steering committee of 2 international conferences in fundamental computer science, he chaired the program committee of 6 international research venues with edited proceedings, edited 2 journal volumes, and was the member of 19 program-committees of international venues.
