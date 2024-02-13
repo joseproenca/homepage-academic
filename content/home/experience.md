@@ -19,11 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Senior Researcher"
-  company = "CISTER (ISEP)"
+  company = "CISTER @ FCUP"
+  company_url = "https://cister-labs.pt"
+  location = "Porto, Portugal"
+  date_start = "2023-09-20"
+  date_end = ""
+  description = """Coordination and verification of components in Cyber-Physical Systems"""
+
+[[experience]]
+  title = "Senior Researcher"
+  company = "CISTER @ ISEP"
   company_url = "https://cister-labs.pt"
   location = "Porto, Portugal"
   date_start = "2019-02-01"
-  date_end = ""
+  date_end = "2023-09-19"
   description = """Coordination and monitoring of components in Cyber-Physical Systems"""
 
 # [[experience]]
