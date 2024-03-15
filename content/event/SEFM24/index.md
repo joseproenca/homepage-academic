@@ -1,7 +1,6 @@
 ---
 title: SEFM 2024
-summary: __PC member and Workshop Chair__ -  22nd International Conference on
-Software Engineering and Formal Methods 
+summary: __PC member and Workshop Chair__ -  22nd International Conference on Software Engineering and Formal Methods 
 # authors:
 # - joseproenca
 tags: []
