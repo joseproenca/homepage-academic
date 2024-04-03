@@ -26,11 +26,14 @@ date_format = "Jan 2006"
   date_start = "2023-09-20"
   date_end = ""
   description = """
-<p></p>Responsible for the MSc course unit:<p></p>
+<p></p>Responsible for the course unit:<p></p>
 
-  * Algorithms ([2023/24](https://cister-labs.github.io/alg2324/))
+  * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/))
+  * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/))
 
 <p></p>In charge of lab classes of the course units:<p></p>
+
+  * PI - _Imperative Programming_ ([2023/24](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529848))
 
   * ED - _Discrete Structures_ ([2023/24](https://www.dcc.fc.up.pt/~rvr/aulas/AC2324/ED2324/))
 
