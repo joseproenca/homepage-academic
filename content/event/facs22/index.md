@@ -1,6 +1,6 @@
 ---
 title: FACS 2022
-summary: __PC chair__ -  International Conference on Formal Aspects of Component Software 
+summary: __PC chair, organizer, and steering committee member__ -  International Conference on Formal Aspects of Component Software 
 # authors:
 # - joseproenca
 tags: []
