@@ -41,15 +41,16 @@ links:
       url: http://lmf.di.uminho.pt/b-pomset/
 ---
 
+ ## [– Slides for this presentation @ FCUP, Portugal–](/slides/bpomsets-dccTalks24.pdf)
+
+
 Choreographic languages describe possible sequences of interactions among a set of agents. Typical models are based on languages or automata over sending and receiving actions. Pomsets provide a more compact alternative by using a partial order to explicitly represent causality and concurrency between these actions. However, pomsets offer no representation of choices, thus a set of pomsets is required to represent branching behaviour. For example, if an agent Alice can send one of two possible messages to Bob three times, one would need a set of 2 × 2 × 2 distinct pomsets to represent all possible branches of Alice’s behaviour. In this talk we propose an extension of pomsets, named branching pomsets, with a branching structure that can represent Alice’s behaviour using 2 + 2 + 2 ordered actions. We encode choreographies as branching pomsets and define well-formedness conditions on branching pomsets, inspired by multiparty session types, which are sufficient to show realisability of the represented communication protocol.
 
 This is joint work with Luc Edixhoven, Sung-Shik Jongmans, and Ilaria Castellani.
 
 ## Related artefacts
 
- - [DCC Seminar](https://www.dcc.fc.up.pt/site/eventos/talks-at-dcc-por-jose-proenca-dcc-fcup-cister)
-
- - [Slides for this presentation](/slides/bpomsets-dccTalks24.pdf)
+ - [DCC Seminar](https://www.dcc.fc.up.pt/site/eventos/talks-at-dcc-por-jose-proenca-dcc-fcup-cister) – event where this was presented
 
  - [Prototype tool](http://lmf.di.uminho.pt/b-pomset/) that implements our theory of branching pomsets
 
