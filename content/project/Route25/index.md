@@ -16,6 +16,15 @@ image:
 #  caption: Car interior
 ---
 
+# Agenda for Autonomous, Intelligent, Interoperable and Inclusive Mobility
+
+![Overview of Route 25](overview.png)
+
+
+- PRR Ref C645463824-00000063
+- 3 years (Oct 2022 to Sep 2025)
+- Funding:  Global: 32.6M€, CISTER: 1.09M€
+
 
 Route 25 will define the future of mobility by “positioning Portugal at the forefront of intelligent and inclusive transportation technologies”. This project leverages the research and development of disruptive technological solutions for Autonomous, Intelligent, Interoperable and Inclusive Mobility, creating a new value chain in Portugal in technology-intensive activities and territorial cohesion, generating EUR 80M in sales and 488 jobs. Route 25 is based on areas of intervention that will result in the placing on the market of 47 innovative and disruptive PPS related to assisted and autonomous driving for safe mobility, a digital experience for cooperative mobility, connected infrastructures for resilient and inclusive cities and smart infrastructures for low-carbon intercity mobility – it is the only Agenda to address these areas and has the necessary PPS, dependent and interconnected, to achieve the defined objectives.
 
