@@ -93,14 +93,17 @@ phone = "+351 228340502"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "CISTER Research Centre, Rua Alfredo Allen, 535", city = "Porto", postcode = "4200-135", country = "Portugal", country_code = "PT"}
+# address = {street = "CISTER Research Centre, Rua Alfredo Allen, 535", city = "Porto", postcode = "4200-135", country = "Portugal", country_code = "PT"} # CISTER
+address = {street = "Faculty of Sciences of the University of Porto (FCUP), Rua do Campo Alegre s/n", city = "Porto", postcode = "4169-007", country = "Portugal", country_code = "PT"} # FCUP
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.1779", longitude = "-8.6058"}
+# coordinates = {latitude = "41.1779", longitude = "-8.6058"} # CISTER
+coordinates = {latitude = "41.1519", longitude = "-8.6366"} # FCUP
+# 41.151879, -8.63655
 
 # Directions for visitors to locate you.
-directions = "" # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Office DCC-1.04, in the Computer Science department, building 6" # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
