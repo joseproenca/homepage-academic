@@ -99,8 +99,9 @@ address = {street = "Faculty of Sciences of the University of Porto (FCUP), Rua 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "41.1779", longitude = "-8.6058"} # CISTER
-coordinates = {latitude = "41.1519", longitude = "-8.6366"} # FCUP
-# 41.151879, -8.63655
+coordinates = {latitude = "41.1525", longitude = "-8.6406"} # DCC
+# 41.151879, -8.63655 FCUP
+# 41.15247, -8.64055 DCC
 
 # Directions for visitors to locate you.
 directions = "Office DCC-1.04, in the Computer Science department, building 6" # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
