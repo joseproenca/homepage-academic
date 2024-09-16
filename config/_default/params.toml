@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pro@isep.ipp.pt"
+email = "pro at isep.ipp.pt; jose.proenca at fc.up.pt"
 phone = "+351 228340502"
 
 # Address
