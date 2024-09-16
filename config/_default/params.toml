@@ -123,7 +123,7 @@ contact_links = [
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ################
-  {icon = "globe", icon_pack = "fas", name = "Homepage @ CISTER", link = "https://cister-labs.pt/people/jose_proenca"}
+  {icon = "globe", icon_pack = "fas", name = "Homepage @ CISTER", link = "https://cister-labs.pt/people/jose_proenca"},
   {icon = "globe", icon_pack = "fas", name = "Homepage @ FCUP", link = "https://sigarra.up.pt/fcup/pt/func_geral.formview?p_codigo=705891"}
   ]
 
