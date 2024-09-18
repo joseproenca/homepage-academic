@@ -42,7 +42,11 @@ links:
     url: https://fm-dcc.github.io/MARGe
   - name: Tutoral video (by David Tinoco)
     url: https://www.dropbox.com/scl/fo/cm0tw42zlebqqzh7s054a/h?rlkey=urd0z5ern6akgkc3l8dqq8l7c&e=1&st=iu6c3xs5&dl=0
+  - name: Slides
+    url: SlidesFACS24.pdf
+  - name: DOI
+    url: https://doi.org/10.1007/978-3-031-71261-6_6
 # url_slides: https://docs.google.com/presentation/...
-# url_slides: slides/...
-# doi: 10.1007/...
+# url_slides: SlidesFACS24.pdf
+# doi: 10.1007/978-3-031-71261-6_6
 ---
