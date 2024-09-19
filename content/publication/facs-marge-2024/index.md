@@ -50,3 +50,5 @@ links:
 # url_slides: SlidesFACS24.pdf
 # doi: 10.1007/978-3-031-71261-6_6
 ---
+
+_Reactive graphs_ are transition structures whereas edges become active and inactive during its evolution, that were introduced by Dov Gabbay from a mathematical’s perspective. This paper presents __Marge__ (https://fm-dcc.github.io/MARGe), a web-based tool to visualise and analyse reactive graphs enriched with labels. __Marge__ animates the operational semantics of reactive graphs and offers different graphical views to provide insights over concrete systems. We motivate the applicability of reactive graphs for adaptive systems and for featured transition systems, using __Marge__ to tighten the gap between the existing theoretical models and their usage to analyse concrete systems.
