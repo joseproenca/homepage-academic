@@ -29,7 +29,8 @@ date_format = "Jan 2006"
 <p></p>Responsible for the course unit:<p></p>
 
   * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/))
-  * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/))
+  * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/),[2024/25](https://fm-dcc.github.io/alg2425/))
+  * Software Verification, MSc level ([2024/25](https://fm-dcc.github.io/sv2425/))
 
 <p></p>In charge of lab classes of the course units:<p></p>
 
