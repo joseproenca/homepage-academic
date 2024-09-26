@@ -1,19 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Branching pomsets: design, expressiveness and applications to choreographies'
+title: Reducing the gap between theory and practice in real-time systems with MARS
 subtitle: ''
-summary: 'JLAMP 2023'
+summary: ''
 authors:
-- Luc Edixhoven
-- Sung-Shik Jongmans
+- Giann Spilere Nandi
+- David Pereira
 - José Proença
-- Ilaria Castelani
-tags: [Ibex,VALU3S,Route25]
+- Eduardo Tovar
+- Luís Nogueira
+tags: []
 categories: []
-date: '2023-09-18'
-lastmod: 2023-09-19T21:14:27+01:00
-featured: true
+date: '2024-01-01'
+lastmod: 2024-09-26T19:19:15+01:00
+featured: false
 draft: false
 
 # Featured image
@@ -29,16 +30,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Ibex,VALU3S,Route25]
-publishDate: '2023-09-18T20:14:27.463518Z'
+projects: []
+publishDate: '2024-09-26T18:19:15.130560Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Journal of Logical and Algebraic Methods in Programming*'
-links:
-    - name: Slides (@ICE'23 by Luc)
-      url: slides/ice23.pdf
-    - name: B-Pomset tool
-      url: https://lmf.di.uminho.pt/b-pomset
-url_code: https://github.com/arcalab/choreo/tree/b-pomset
+publication: '*54th Annual IEEE/IFIP International Conference on Dependable Systems
+  and Networks, DSN 2024 - Supplemental Volume, Brisbane, Australia, June 24-27, 2024*'
+url_pdf: https://doi.org/10.1109/DSN-S60304.2024.00021
+doi: 10.1109/DSN-S60304.2024.00021
 ---
