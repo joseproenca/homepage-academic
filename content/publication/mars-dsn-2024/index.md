@@ -3,7 +3,7 @@
 
 title: Reducing the gap between theory and practice in real-time systems with MARS
 subtitle: ''
-summary: ''
+summary: 'DSN 2024'
 authors:
 - Giann Spilere Nandi
 - David Pereira

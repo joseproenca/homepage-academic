@@ -3,7 +3,7 @@
 
 title: 'Team Automata: Overview and Roadmap'
 subtitle: ''
-summary: ''
+summary: 'COORDINATION 2024'
 authors:
 - Maurice H. ter Beek
 - Rolf Hennicker
