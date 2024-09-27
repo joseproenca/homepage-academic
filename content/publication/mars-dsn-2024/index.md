@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2024-01-01'
 lastmod: 2024-09-26T19:19:15+01:00
-featured: false
+featured: yes
 draft: false
 
 # Featured image
@@ -39,4 +39,7 @@ publication: '*54th Annual IEEE/IFIP International Conference on Dependable Syst
   and Networks, DSN 2024 - Supplemental Volume, Brisbane, Australia, June 24-27, 2024*'
 url_pdf: https://doi.org/10.1109/DSN-S60304.2024.00021
 doi: 10.1109/DSN-S60304.2024.00021
+links:
+  - name: DSN 2024
+    url: https://dsn2024uq.github.io/cpaccepted.html
 ---

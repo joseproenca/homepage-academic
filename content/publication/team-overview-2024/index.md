@@ -12,7 +12,7 @@ tags: [Ibex]
 categories: []
 date: '2024-01-01'
 lastmod: 2024-09-26T19:19:14+01:00
-featured: false
+featured: yes
 draft: false
 
 # Featured image
@@ -39,7 +39,7 @@ publication: '*Coordination Models and Languages - 26th IFIP WG 6.1 Internationa
   June 17-21, 2024, Proceedings*'
 url_pdf: https://doi.org/10.1007/978-3-031-62697-5_10
 doi: 10.1007/978-3-031-62697-5_10
-# links:
-#   - name: Slides
-#     url: SlidesFACS24.pdf
+links:
+  - name: Coordination 2024
+    url: https://www.discotec.org/2024/accepted-papers
 ---
