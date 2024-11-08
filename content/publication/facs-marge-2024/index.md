@@ -46,6 +46,8 @@ links:
     url: SlidesFACS24.pdf
   - name: Slides@APM'24
     url: SlidesAPM24.pdf
+  - name: Slides@ReacTS/SEFM'24
+    url: SlidesReacTS24.pdf
   - name: FACS 2024
     url: https://facs-conference.github.io/2024/talks/
   # - name: DOI
