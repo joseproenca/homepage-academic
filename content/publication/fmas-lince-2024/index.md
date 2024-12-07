@@ -35,8 +35,10 @@ publication_types:
 - '1'
 abstract: ''
 links:
-    - name: 'Slides'
+    - name: 'Slides (pdf)'
       url: fmas-lince-2024-slides.pdf
+    - name: 'Slides (web)'
+      url: https://docs.google.com/presentation/d/1kjtxBxYcRWsvdZ9-CmF8m34WYyXOrvqHsHWeu8zcSMM/edit?usp=sharing
     - name: 'Lince tool' 
       url: http://arcatools.org/lince
 # url_slides: slides/ictac20.pdf
