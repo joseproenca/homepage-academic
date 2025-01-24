@@ -25,7 +25,7 @@ image:
 projects: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://scsc.uk/e1015/
+external_link: https://gram.isti.cnr.it/rssrail2025/
 ---
 
 ## International Conference on Reliability, Safety and Security of Railway Systems
