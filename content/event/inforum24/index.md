@@ -5,7 +5,7 @@ summary: __PC member__ -  15th National Symposium of Informatics (track SOFT-PT)
 # - joseproenca
 tags: []
 categories: []
-date: "2025-09-05"
+date: "2024-09-05"
 # lastMod: "2019-09-05T00:00:00Z"
 featured: true
 draft: false
