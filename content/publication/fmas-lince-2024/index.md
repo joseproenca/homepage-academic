@@ -39,7 +39,7 @@ links:
       url: fmas-lince-2024-slides.pdf
     - name: 'Slides (web)'
       url: https://docs.google.com/presentation/d/1kjtxBxYcRWsvdZ9-CmF8m34WYyXOrvqHsHWeu8zcSMM/edit?usp=sharing
-    - name: `Slides (Ibex@SEFM'24)`
+    - name: 'Slides (Ibex@SEFM24)'
       url: https://docs.google.com/presentation/d/1sQ7QhYShWvjeui1udxHMblE8qbGPSTOa-C40EBMBl8w/edit?usp=sharing
     - name: 'Lince tool' 
       url: http://arcatools.org/lince
