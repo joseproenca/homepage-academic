@@ -1,6 +1,6 @@
 ---
 title: EMSICC @ FiCloud 2025
-summary: Program Committee Member__ - 10th International Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing
+summary: __Program Committee Member__ - 10th International Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing
 # authors:
 # - joseproenca
 tags: []
