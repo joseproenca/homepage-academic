@@ -28,9 +28,10 @@ date_format = "Jan 2006"
   description = """
 <p></p>Responsible for the course unit:<p></p>
 
-  * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/))
+  * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/),[2024/25](https://fm-dcc.github.io/cp2425/))
   * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/),[2024/25](https://fm-dcc.github.io/alg2425/))
   * Software Verification, MSc level ([2024/25](https://fm-dcc.github.io/sv2425/))
+  * Programming (C++ @ FEUP) ([2024/25](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541874))
 
 <p></p>In charge of lab classes of the course units:<p></p>
 
@@ -48,6 +49,9 @@ Ongoing supervisor of the PhD thesis:
 OnSgoing supervisor of the MSc thesis:
 <p></p>
 
+  * [Henrique Vicente](), _Offloading tasks in CAOS_ (since 2024)
+  * [Fernando Conceição](), _Validating CPS Monitors in Lince_ (since 2024)
+  * [Gustavo Brandão](), _Running many CPS simulations in Lince_ (since 2024)
   * [Telmo Ribeiro](), _API Generation of Multiparty Session Types_ (since 2023)
   * [Pedro Daniel Mendes](), _Visualisation of simulations of hybrid systems_ ([UM](https://di.uminho.pt), since 2023)
   * [Alexandre Silva](), _Analysis of families of Real Time systems with IMITATOR_ ([UM](https://di.uminho.pt), since 2023)
