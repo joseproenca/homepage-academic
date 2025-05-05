@@ -5,7 +5,7 @@ summary: __PC member__ - 12th International Workshop on Next Generation of Syste
 # - joseproenca
 tags: []
 categories: []
-date: "2015-09-09"
+date: "2025-09-09"
 # lastMod: "2018-09-05T00:00:00Z"
 featured: true
 draft: false
