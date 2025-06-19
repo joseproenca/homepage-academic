@@ -35,7 +35,7 @@ abstract: ''
 links:
     - name: 'RebeCaos tool' 
       url: https://fm-dcc.github.io/rebecaos
-# url_slides: slides/ictac20.pdf
+url_slides: https://docs.google.com/presentation/d/1NNyZPC-_BEa7UHtu4hDnP0lUM3y_bsU7K6nvwquK0Lk
 url_code: https://github.com/fm-dcc.github.io/rebecaos
 # doi: 10.1007/978-3-030-64276-1_14
 publication: 'Proceedings of COORDINATION 2025, Lille, France, 17th of June 2025'
