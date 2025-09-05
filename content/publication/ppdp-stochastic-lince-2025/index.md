@@ -3,7 +3,7 @@
 
 title: An Adequate While-Language for Stochastic Hybrid Computation
 subtitle: ''
-summary: ''
+summary: 'PPDP 2025'
 authors:
 - Renato Neves
 - José Proença
@@ -33,6 +33,13 @@ publishDate: '2025-07-15T14:19:50.685590Z'
 publication_types:
 - '0'
 abstract: ''
+links:
+    - name: 'Lince' 
+      url: http://arcatools.org/lince
+    - name: 'Lince 2.0' 
+      url: https://lmf.di.uminho.pt/lince-2.0
+    - name: '@PPDL'
+      url: 'https://ppdp25.github.io/site/program/'
 publication: '*ACM*'
 url_pdf: https://doi.org/10....
 doi: 10.....
