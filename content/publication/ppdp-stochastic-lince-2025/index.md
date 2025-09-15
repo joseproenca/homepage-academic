@@ -38,6 +38,8 @@ links:
       url: http://arcatools.org/lince
     - name: 'Lince 2.0' 
       url: https://lmf.di.uminho.pt/lince-2.0
+    - name: 'slides (web)'
+      url: 'https://docs.google.com/presentation/d/12SUDvW3b7da6Q2OwQKgA33J-MKD917_T2JPeQrTCGvw/edit?usp=sharing'
     - name: '@PPDL'
       url: 'https://ppdp25.github.io/site/program/'
 publication: '*ACM*'
