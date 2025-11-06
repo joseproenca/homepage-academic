@@ -30,14 +30,14 @@ date_format = "Jan 2006"
 
   * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/),[2024/25](https://fm-dcc.github.io/cp2425/))
   * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/),[2024/25](https://fm-dcc.github.io/alg2425/))
-  * Software Verification, MSc level ([2024/25](https://fm-dcc.github.io/sv2425/))
+  * Software Verification, MSc level ([2024/25](https://fm-dcc.github.io/sv2425/), [2025/26](https://fm-dcc.github.io/sv2526/))
   * Programming (C++ @ FEUP) ([2024/25](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541874))
 
 <p></p>In charge of lab classes of the course units:<p></p>
 
   * PI - _Imperative Programming_ ([2023/24](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529848))
 
-  * ED - _Discrete Structures_ ([2023/24](https://www.dcc.fc.up.pt/~rvr/aulas/AC2324/ED2324/))
+  * ED - _Discrete Structures_ ([2023/24](https://www.dcc.fc.up.pt/~rvr/aulas/AC2324/ED2324/), [2025/26](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=570287))
 
 <p></p>
 Ongoing supervisor of the PhD thesis:
@@ -46,13 +46,14 @@ Ongoing supervisor of the PhD thesis:
   * [Reydel Arrieta Olano](https://cister-labs.pt/people/reydel_olano/), _Quantified Verification and Validation of Real-Time Programs_ (since 2023)
 
 <p></p>
-OnSgoing supervisor of the MSc thesis:
+Supervisor of the MSc thesis:
 <p></p>
 
+  * [Telmo Ribeiro](), _API Generation of Multiparty Session Types_ (since 2023, defended Jul. 2025)
+  * [Sofia Gonçalves](), _Components for Cyber Physical Systems in Lince_ (since 2025)
   * [Henrique Vicente](), _Offloading tasks in CAOS_ (since 2024)
   * [Fernando Conceição](), _Validating CPS Monitors in Lince_ (since 2024)
   * [Gustavo Brandão](), _Running many CPS simulations in Lince_ (since 2024)
-  * [Telmo Ribeiro](), _API Generation of Multiparty Session Types_ (since 2023)
   * [Pedro Daniel Mendes](), _Visualisation of simulations of hybrid systems_ ([UM](https://di.uminho.pt), since 2023)
   * [Alexandre Silva](), _Analysis of families of Real Time systems with IMITATOR_ ([UM](https://di.uminho.pt), since 2023)
   """
@@ -85,16 +86,16 @@ Invited lecturer in the following course units:
   * CPC - _Cyber-Physical Computation_, [UM](https://di.uminho.pt), for PhD students of [MAPi](http://mapi.map.edu.pt/) (2019/20)
 
 <p></p>
-Ongoing supervisor of the PhD thesis:
+Ongoing daily supervisor (not promoter) of the PhD thesis:
 <p></p>
 
-  * [Giann Nandi](http://www.cister.isep.ipp.pt/people/giann_nandi/), _A Novel Framework for Certified Runtime Verification of Safety-Critical Cyber-Physical Systems_ (since 2019)
+  * [Giann Nandi](http://www.cister.isep.ipp.pt/people/giann_nandi/), _A Novel Framework for Certified Runtime Verification of Safety-Critical Cyber-Physical Systems_ (since 2019, defended in 2025)
 
 <!-- <p></p>
 Ongoing supervisor of the MSc thesis:
 <p></p>
 
-  * José Matias, _A DSL for a Cloud infrastructure_ (since 2020)
+  * José Matias, _A DSL for a Cloud infrastructure_ (since 2020 - unfinished)
  -->
   """
 
