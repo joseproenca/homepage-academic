@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Formal Simulation and Visualisation of Hybrid Programs'
-subtitle: 'An Extension of a Proof-of-Concept Tool'
-summary: 'FMAS@iFM 2024'
+title: 'Analyzing Many Simulations of Hybrid Programs in Lince'
+# subtitle: 'An Extension of a Proof-of-Concept Tool'
+summary: 'FMAS@iFM 2025'
 authors:
 - Reydel Arrieta and
 - José Proença
