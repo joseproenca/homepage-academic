@@ -1,11 +1,11 @@
 ---
-title: PhD symposium SPLC 2025
-summary: __PC member__ - PhD symposium at the 29TH ACM International Systems and Software Product Line Conference
+title: SBMF 2025
+summary: __PC member__ - 28th Brazilian Symposium on Formal Methods
 # authors:
 # - joseproenca
 tags: []
 categories: []
-date: "2025-09-01"
+date: "2025-12-03"
 # lastMod: "2019-09-05T00:00:00Z"
 featured: true
 draft: false
@@ -25,5 +25,5 @@ image:
 projects: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://2025.splc.net
+external_link: https://sbmf2025.ufrpe.br/
 ---
