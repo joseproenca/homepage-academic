@@ -28,10 +28,10 @@ date_format = "Jan 2006"
   description = """
 <p></p>Responsible for the course unit:<p></p>
 
-  * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/),[2024/25](https://fm-dcc.github.io/cp2425/))
-  * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/),[2024/25](https://fm-dcc.github.io/alg2425/))
+  * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/),[2024/25](https://fm-dcc.github.io/cp2425/),[2025/26](https://fm-dcc.github.io/cp2526/))
+  * Programming (C++ @ FEUP) ([2024/25](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541874), [2025/26](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560094))
   * Software Verification, MSc level ([2024/25](https://fm-dcc.github.io/sv2425/), [2025/26](https://fm-dcc.github.io/sv2526/))
-  * Programming (C++ @ FEUP) ([2024/25](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541874))
+  * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/),[2024/25](https://fm-dcc.github.io/alg2425/))
 
 <p></p>In charge of lab classes of the course units:<p></p>
 
