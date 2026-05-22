@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Asynchronous Team Automata
-subtitle: 'Best-artifact award'
+subtitle: 'Best-artefact award'
 summary: 'FM 2026'
 authors:
 - Davide Basile
@@ -35,6 +35,8 @@ links:
       url: http://fm-dcc.github.io/a-team
     - name: FM'26
       url: https://conf.researchr.org/home/fm-2026
+    - name: slides
+      url: fm-ateam-2026-slides.pdf
     - name: Artefact
       url: https://doi.org/10.5281/zenodo.18601856
 # doi: 10.1007/...
