@@ -1,11 +1,11 @@
 ---
-title: COORDINATION 2025
+title: COORDINATION 2026
 summary: __Steering Committee Member & Program Committee Member__ - IFIP International Conference on Coordination Models and Languages
 # authors:
 # - joseproenca
 tags: []
 categories: []
-date: "2025-06-16"
+date: "2026-06-08"
 event_start: "2026-06-08"
 event_end: "2026-06-12"
 # lastMod: "2019-09-05T00:00:00Z"
