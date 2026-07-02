@@ -14,6 +14,6 @@ date: "2026-07-01T00:00:00Z"
 external_link: https://rigoletto-project.eu/
 
 image:
-  caption: VALU3S logo
+  caption: Rigoletto logo
   focal_point: Smart
 ---
