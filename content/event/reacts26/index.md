@@ -1,6 +1,6 @@
 ---
 title: ReacTS 2026
-summary: "__PC Chair__ -  3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications" 
+summary: "__PC Member__ -  3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications" 
 # authors:
 # - joseproenca
 tags: []
