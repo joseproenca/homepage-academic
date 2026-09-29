@@ -28,16 +28,18 @@ date_format = "Jan 2006"
   description = """
 <p></p>Responsible for the course unit:<p></p>
 
+  * Software Verification, MSc level ([2024/25](https://fm-dcc.github.io/sv2425/), [2025/26](https://fm-dcc.github.io/sv2526/), [2026/27](https://fm-dcc.github.io/sv2627/))
   * Concurrent Programming ([2023/24](https://fm-dcc.github.io/pc2324/),[2024/25](https://fm-dcc.github.io/cp2425/),[2025/26](https://fm-dcc.github.io/cp2526/))
   * Programming (C++ @ FEUP) ([2024/25](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541874), [2025/26](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560094))
-  * Software Verification, MSc level ([2024/25](https://fm-dcc.github.io/sv2425/), [2025/26](https://fm-dcc.github.io/sv2526/))
   * Algorithms, MSc level ([2023/24](https://cister-labs.github.io/alg2324/),[2024/25](https://fm-dcc.github.io/alg2425/))
 
 <p></p>In charge of lab classes of the course units:<p></p>
 
-  * PI - _Imperative Programming_ ([2023/24](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529848))
+  * IP - _Introduction to Programming (Python)_ ([2026/27](https://miriamspsantos.github.io/ip2627))
 
   * ED - _Discrete Structures_ ([2023/24](https://www.dcc.fc.up.pt/~rvr/aulas/AC2324/ED2324/), [2025/26](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=570287))
+
+  * PI - _Imperative Programming (C)_ ([2023/24](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529848))
 
 <p></p>
 Ongoing supervisor of the PhD thesis:
