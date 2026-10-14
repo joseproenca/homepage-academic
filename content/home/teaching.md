@@ -51,13 +51,14 @@ Ongoing supervisor of the PhD thesis:
 Supervisor of the MSc thesis:
 <p></p>
 
-  * [Telmo Ribeiro](), _API Generation of Multiparty Session Types_ (since 2023, defended Jul. 2025)
   * [Sofia Gonçalves](), _Components for Cyber Physical Systems in Lince_ (since 2025)
-  * [Henrique Vicente](), _Offloading tasks in CAOS_ (since 2024)
   * [Fernando Conceição](), _Validating CPS Monitors in Lince_ (since 2024)
+  * [Pedro Daniel Mendes](), _Visualisation of simulations of hybrid systems_ ([UM](https://di.uminho.pt), defended 2026)
+  * [Alexandre Silva](), _Analysis of families of Real Time systems with IMITATOR_ ([UM](https://di.uminho.pt), defended Dec. 2025)
+  * [Henrique Vicente], _Offloading tasks in CAOS_ (FCUP - defended Dec. 2025)
   * [Gustavo Brandão](), _Running many CPS simulations in Lince_ (since 2024)
-  * [Pedro Daniel Mendes](), _Visualisation of simulations of hybrid systems_ ([UM](https://di.uminho.pt), since 2023)
-  * [Alexandre Silva](), _Analysis of families of Real Time systems with IMITATOR_ ([UM](https://di.uminho.pt), since 2023)
+  * [Telmo Ribeiro](), _API Generation of Multiparty Session Types_ (since 2023, defended Jul. 2025)
+  
   """
 
 
